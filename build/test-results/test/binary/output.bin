@@ -1,0 +1,2690 @@
+)[log] App.open [4447:LaCie RAID Manager]
+:[4778 debug] RunTimeAPI: loadLib: libopencv_java342.dylib
+ª[4840 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+å[4841 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (63 KB) (# 1 KB 63 -- 0 % of 64 MB)
+ª[4850 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+ç[4851 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (57 KB) (# 2 KB 121 -- 0 % of 64 MB)
+π[4862 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+å[4862 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (41 KB) (# 3 KB 163 -- 0 % of 64 MB)
+†[4864 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png to appear in R[0,0 1440x900]@S(0)
+2[5020 debug] Finder2: makeMat: INT_RGB (1440x900)
+;[5053 debug] Finder::possibleImageResizeOrCallback: resize
+8[5063 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (109x37)
+$[5071 debug] Finder2: doFind: start
+D[5211 debug] Finder2: doFind: in original: %36.2690 (?70) 140 msec 
++[5212 debug] Finder2: doFind: end 141 msec
+2[5336 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[5363 debug] Finder2: doFind: start
+C[5450 debug] Finder2: doFind: in original: %36.2690 (?70) 87 msec 
+*[5456 debug] Finder2: doFind: end 93 msec
+2[5669 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[5706 debug] Finder2: doFind: start
+D[5809 debug] Finder2: doFind: in original: %36.2690 (?70) 103 msec 
++[5809 debug] Finder2: doFind: end 103 msec
+2[5997 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[6006 debug] Finder2: doFind: start
+D[6117 debug] Finder2: doFind: in original: %36.2690 (?70) 111 msec 
++[6118 debug] Finder2: doFind: end 112 msec
+2[6356 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[6371 debug] Finder2: doFind: start
+C[6466 debug] Finder2: doFind: in original: %36.2690 (?70) 95 msec 
+*[6466 debug] Finder2: doFind: end 95 msec
+2[6688 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[6708 debug] Finder2: doFind: start
+D[6813 debug] Finder2: doFind: in original: %36.2690 (?70) 105 msec 
++[6813 debug] Finder2: doFind: end 105 msec
+2[7031 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[7046 debug] Finder2: doFind: start
+C[7142 debug] Finder2: doFind: in original: %36.2690 (?70) 96 msec 
+*[7142 debug] Finder2: doFind: end 96 msec
+2[7383 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[7399 debug] Finder2: doFind: start
+D[7526 debug] Finder2: doFind: in original: %36.2690 (?70) 126 msec 
++[7527 debug] Finder2: doFind: end 127 msec
+2[7688 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[7708 debug] Finder2: doFind: start
+D[7809 debug] Finder2: doFind: in original: %36.2690 (?70) 101 msec 
++[7809 debug] Finder2: doFind: end 101 msec
+2[8035 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[8044 debug] Finder2: doFind: start
+C[8134 debug] Finder2: doFind: in original: %36.2690 (?70) 89 msec 
+*[8134 debug] Finder2: doFind: end 90 msec
+2[8369 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[8378 debug] Finder2: doFind: start
+C[8468 debug] Finder2: doFind: in original: %36.2690 (?70) 90 msec 
+*[8468 debug] Finder2: doFind: end 90 msec
+2[8709 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[8725 debug] Finder2: doFind: start
+D[8841 debug] Finder2: doFind: in original: %36.2690 (?70) 114 msec 
++[8841 debug] Finder2: doFind: end 115 msec
+2[9059 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[9082 debug] Finder2: doFind: start
+D[9197 debug] Finder2: doFind: in original: %36.2690 (?70) 114 msec 
++[9198 debug] Finder2: doFind: end 116 msec
+2[9378 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[9388 debug] Finder2: doFind: start
+D[9499 debug] Finder2: doFind: in original: %36.2690 (?70) 111 msec 
++[9499 debug] Finder2: doFind: end 111 msec
+2[9711 debug] Finder2: makeMat: INT_RGB (1440x900)
+$[9723 debug] Finder2: doFind: start
+D[9832 debug] Finder2: doFind: in original: %36.2690 (?70) 109 msec 
++[9832 debug] Finder2: doFind: end 109 msec
+Ñ[9918 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png did not appear [5053 msec]
+¬[9926 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892854260 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png) S: 0.699999988079071
+P[9927 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+I[9927 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+@[9927 debug] Observing: add observer: now running 1 observer(s)
+3[10068 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[10081 debug] Finder::possibleImageResizeOrCallback: resize
+9[10081 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+%[10081 debug] Finder2: doFind: start
+E[10200 debug] Finder2: doFind: in original: %90.3957 (?70) 119 msec 
+,[10202 debug] Finder2: doFind: end 121 msec
+€[10209 debug] Observer: APPEAR: 1549892854260 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png) S: 0.699999988079071 at: M[654,24 135x19]@S(S(0)[0,0 1440x900]) S:0.90 C:721,33 [0 msec]
+2[10210 debug] Observer: running call back: APPEAR
+;[10211 debug] highlight M[654,24 135x19]@S(0) for 1.0 secs
+F[12133 debug] DOUBLE CLICK on L(721,33)@S(0)[0,0 1440x900] (700 msec)
+Q[12134 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[12134 debug] Observer: update result: Patterns: false
+H[12134 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+¿[12153 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonOverview.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonOverview.png)
+ê[12153 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonOverview.png (83 KB) (# 4 KB 246 -- 0 % of 64 MB)
+º[12159 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/arraysClosed.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/arraysClosed.png)
+é[12160 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/arraysClosed.png (66 KB) (# 5 KB 313 -- 0 % of 64 MB)
+∂[12176 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/iconArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/iconArray.png)
+ã[12176 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/iconArray.png (13 KB) (# 6 KB 326 -- 0 % of 64 MB)
+º[12181 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDelete.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDelete.png)
+é[12181 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDelete.png (42 KB) (# 7 KB 368 -- 0 % of 64 MB)
+ƒ[12224 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png)
+ì[12224 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png (531 KB) (# 8 KB 900 -- 1 % of 64 MB)
+ [12233 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonConfirmDelete.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonConfirmDelete.png)
+ï[12233 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonConfirmDelete.png (80 KB) (# 9 KB 981 -- 1 % of 64 MB)
+∏[12238 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDots.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDots.png)
+ç[12238 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDots.png (10 KB) (# 10 KB 991 -- 1 % of 64 MB)
+∏[12264 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonInfo.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonInfo.png)
+é[12265 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonInfo.png (25 KB) (# 11 KB 1017 -- 1 % of 64 MB)
+∆[12272 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png)
+ï[12273 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png (71 KB) (# 12 KB 1088 -- 1 % of 64 MB)
+æ[12317 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png)
+í[12317 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png (628 KB) (# 13 KB 1717 -- 2 % of 64 MB)
+º[12326 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+º[12329 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+∫[12330 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+;[12345 debug] highlight R[0,135 200x200]@S(0) for 1.0 secs
+8[debug] Commands: click: L(100,160)@S(0)[0,0 1440x900] 
+?[14054 debug] CLICK on L(100,160)@S(0)[0,0 1440x900] (98 msec)
+…[14055 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892858390 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png) S: 0.699999988079071
+Q[14055 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[14055 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[14055 debug] Observing: add observer: now running 2 observer(s)
+3[14207 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[14218 debug] Finder::possibleImageResizeOrCallback: resize
+9[14218 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (114x40)
+%[14219 debug] Finder2: doFind: start
+E[14394 debug] Finder2: doFind: in original: %89.3578 (?70) 175 msec 
+,[14394 debug] Finder2: doFind: end 175 msec
+„[14402 debug] Observer: APPEAR: 1549892858390 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png) S: 0.699999988079071 at: M[745,510 114x40]@S(S(0)[0,0 1440x900]) S:0.89 C:802,530 [0 msec]
+2[14404 debug] Observer: running call back: APPEAR
+<[14407 debug] highlight M[745,510 114x40]@S(0) for 1.0 secs
+@[16076 debug] CLICK on L(802,530)@S(0)[0,0 1440x900] (603 msec)
+Q[16077 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[16077 debug] Observer: update result: Patterns: false
+H[16077 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+¿[17092 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/linkQuickArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkQuickArray.png)
+í[17092 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/linkQuickArray.png (12 KB) (# 14 KB 1729 -- 2 % of 64 MB)
+¬[17096 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png)
+ì[17097 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png (24 KB) (# 15 KB 1754 -- 2 % of 64 MB)
+∏[17102 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png)
+é[17102 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png (69 KB) (# 16 KB 1823 -- 2 % of 64 MB)
+∫[17108 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png)
+è[17108 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png (81 KB) (# 17 KB 1905 -- 2 % of 64 MB)
+¿[17112 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png)
+í[17113 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png (78 KB) (# 18 KB 1984 -- 3 % of 64 MB)
+º[17118 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png)
+ê[17118 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png (70 KB) (# 19 KB 2054 -- 3 % of 64 MB)
+º[17123 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonIgnore.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonIgnore.png)
+ê[17123 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonIgnore.png (20 KB) (# 20 KB 2074 -- 3 % of 64 MB)
+∫[17127 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid0.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid0.png)
+è[17127 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid0.png (38 KB) (# 21 KB 2113 -- 3 % of 64 MB)
+∫[17132 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid1.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid1.png)
+è[17132 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid1.png (37 KB) (# 22 KB 2150 -- 3 % of 64 MB)
+∫[17137 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid5.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid5.png)
+è[17137 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid5.png (42 KB) (# 23 KB 2192 -- 3 % of 64 MB)
+∫[17142 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid6.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid6.png)
+è[17142 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid6.png (39 KB) (# 24 KB 2231 -- 3 % of 64 MB)
+º[17146 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid10.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid10.png)
+ê[17146 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid10.png (45 KB) (# 25 KB 2277 -- 3 % of 64 MB)
+º[17151 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid50.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid50.png)
+ê[17151 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid50.png (48 KB) (# 26 KB 2325 -- 3 % of 64 MB)
+º[17157 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid60.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid60.png)
+ê[17157 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid60.png (41 KB) (# 27 KB 2367 -- 3 % of 64 MB)
+º[17163 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png)
+ê[17163 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png (28 KB) (# 28 KB 2395 -- 3 % of 64 MB)
+º[17167 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png)
+ê[17167 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png (28 KB) (# 29 KB 2424 -- 3 % of 64 MB)
+º[17173 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png)
+ê[17173 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png (32 KB) (# 30 KB 2456 -- 3 % of 64 MB)
+º[17178 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png)
+ê[17178 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png (30 KB) (# 31 KB 2486 -- 3 % of 64 MB)
+º[17191 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png)
+ê[17191 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png (31 KB) (# 32 KB 2518 -- 3 % of 64 MB)
+º[17197 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png)
+ê[17197 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png (34 KB) (# 33 KB 2552 -- 3 % of 64 MB)
+º[17201 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive7.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive7.png)
+ê[17201 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive7.png (32 KB) (# 34 KB 2585 -- 3 % of 64 MB)
+º[17207 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive8.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive8.png)
+ê[17208 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive8.png (30 KB) (# 35 KB 2615 -- 3 % of 64 MB)
+º[17216 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive9.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive9.png)
+ê[17216 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive9.png (30 KB) (# 36 KB 2646 -- 4 % of 64 MB)
+æ[17221 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive10.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive10.png)
+ë[17222 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive10.png (31 KB) (# 37 KB 2678 -- 4 % of 64 MB)
+æ[17226 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive11.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive11.png)
+ë[17226 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive11.png (31 KB) (# 38 KB 2709 -- 4 % of 64 MB)
+æ[17232 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive12.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive12.png)
+ë[17232 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive12.png (31 KB) (# 39 KB 2741 -- 4 % of 64 MB)
+ [17238 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/autoFormattSwitcher.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/autoFormattSwitcher.png)
+ò[17239 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/autoFormattSwitcher.png (109 KB) (# 40 KB 2850 -- 4 % of 64 MB)
+∆[17244 debug] Image: loaded: /Users/qa-team/Desktop/lrm-automation/build/resources/test/diskCacheSwitcher.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/diskCacheSwitcher.png)
+ï[17244 debug] Image: cached: /Users/qa-team/Desktop/lrm-automation/build/resources/test/diskCacheSwitcher.png (98 KB) (# 41 KB 2949 -- 4 % of 64 MB)
+º[17248 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+º[17251 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+∫[17255 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+«[17270 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892861606 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png) S: 0.699999988079071
+Q[17272 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[17272 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[17272 debug] Observing: add observer: now running 3 observer(s)
+3[17428 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[17442 debug] Finder::possibleImageResizeOrCallback: resize
+8[17443 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (66x24)
+%[17444 debug] Finder2: doFind: start
+E[17587 debug] Finder2: doFind: in original: %91.0256 (?70) 143 msec 
+,[17588 debug] Finder2: doFind: end 144 msec
+‡[17589 debug] Observer: APPEAR: 1549892861606 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png) S: 0.699999988079071 at: M[497,476 66x24]@S(S(0)[0,0 1440x900]) S:0.91 C:530,488 [0 msec]
+2[17589 debug] Observer: running call back: APPEAR
+;[17589 debug] highlight M[497,476 66x24]@S(0) for 1.0 secs
+@[19230 debug] CLICK on L(530,488)@S(0)[0,0 1440x900] (597 msec)
+Q[19230 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[19230 debug] Observer: update result: Patterns: false
+H[19230 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+¬[20233 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892864569 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071
+Q[20234 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[20234 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[20234 debug] Observing: add observer: now running 4 observer(s)
+3[20351 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[20362 debug] Finder::possibleImageResizeOrCallback: resize
+9[20362 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+%[20363 debug] Finder2: doFind: start
+D[20455 debug] Finder2: doFind: in original: %90.2737 (?70) 92 msec 
++[20455 debug] Finder2: doFind: end 92 msec
+‹[20456 debug] Observer: APPEAR: 1549892864569 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071 at: M[853,584 115x38]@S(S(0)[0,0 1440x900]) S:0.90 C:910,603 [0 msec]
+2[20457 debug] Observer: running call back: APPEAR
+<[20457 debug] highlight M[853,584 115x38]@S(0) for 1.0 secs
+@[22105 debug] CLICK on L(910,603)@S(0)[0,0 1440x900] (602 msec)
+Q[22105 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[22105 debug] Observer: update result: Patterns: false
+H[22105 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+:[23109 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+ü[24212 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png to appear in R[0,0 1440x900]@S(0)
+1[24339 debug] Finder2: makeMat: INT_RGB (115x38)
+<[24344 debug] Finder::possibleImageResizeOrCallback: resize
+9[24345 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+%[24345 debug] Finder2: doFind: start
+B[24346 debug] Finder2: doFind: in original: %1.3406 (?89) 1 msec 
+*[24346 debug] Finder2: doFind: end 1 msec
+/[24346 debug] Region: checkLastSeen: not there
+3[24346 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[24358 debug] Finder::possibleImageResizeOrCallback: resize
+9[24359 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+%[24359 debug] Finder2: doFind: start
+E[24483 debug] Finder2: doFind: in original: %90.6967 (?70) 124 msec 
+,[24483 debug] Finder2: doFind: end 124 msec
+ª[24484 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png has appeared (M[853,686 115x38]@S(S(0)[0,0 1440x900]) S:0.91 C:910,705 [271 msec])
+¬[24485 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892868821 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071
+Q[24485 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[24485 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[24485 debug] Observing: add observer: now running 5 observer(s)
+1[24633 debug] Finder2: makeMat: INT_RGB (115x38)
+<[24633 debug] Finder::possibleImageResizeOrCallback: resize
+9[24635 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+%[24636 debug] Finder2: doFind: start
+C[24637 debug] Finder2: doFind: in original: %90.6982 (?95) 0 msec 
+*[24638 debug] Finder2: doFind: end 1 msec
+3[24642 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[24651 debug] Finder::possibleImageResizeOrCallback: resize
+9[24652 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+%[24652 debug] Finder2: doFind: start
+E[24812 debug] Finder2: doFind: in original: %90.6967 (?70) 160 msec 
+,[24813 debug] Finder2: doFind: end 161 msec
+‹[24814 debug] Observer: APPEAR: 1549892864569 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071 at: M[853,686 115x38]@S(S(0)[0,0 1440x900]) S:0.91 C:910,705 [0 msec]
+2[24815 debug] Observer: running call back: APPEAR
+<[24815 debug] highlight M[853,686 115x38]@S(0) for 1.0 secs
+@[26466 debug] CLICK on L(910,705)@S(0)[0,0 1440x900] (604 msec)
+Q[26466 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[26467 debug] Observer: update result: Patterns: false
+H[26468 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[27472 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892871808 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png) S: 0.699999988079071
+Q[27472 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[27472 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[27473 debug] Observing: add observer: now running 6 observer(s)
+3[27593 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[27602 debug] Finder::possibleImageResizeOrCallback: resize
+8[27602 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+%[27605 debug] Finder2: doFind: start
+D[27701 debug] Finder2: doFind: in original: %99.1911 (?70) 96 msec 
++[27701 debug] Finder2: doFind: end 96 msec
+›[27702 debug] Observer: APPEAR: 1549892871808 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png) S: 0.699999988079071 at: M[471,318 69x26]@S(S(0)[0,0 1440x900]) S:0.99 C:505,331 [0 msec]
+2[27703 debug] Observer: running call back: APPEAR
+;[27703 debug] highlight M[471,318 69x26]@S(0) for 1.0 secs
+@[29337 debug] CLICK on L(505,331)@S(0)[0,0 1440x900] (592 msec)
+Q[29337 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[29337 debug] Observer: update result: Patterns: false
+H[29338 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[30338 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892874674 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png) S: 0.699999988079071
+Q[30339 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[30339 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[30339 debug] Observing: add observer: now running 7 observer(s)
+3[30463 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[30472 debug] Finder::possibleImageResizeOrCallback: resize
+8[30473 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+%[30473 debug] Finder2: doFind: start
+E[30580 debug] Finder2: doFind: in original: %98.8352 (?70) 107 msec 
+,[30580 debug] Finder2: doFind: end 107 msec
+›[30581 debug] Observer: APPEAR: 1549892874674 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png) S: 0.699999988079071 at: M[550,318 69x26]@S(S(0)[0,0 1440x900]) S:0.99 C:584,331 [0 msec]
+2[30582 debug] Observer: running call back: APPEAR
+;[30582 debug] highlight M[550,318 69x26]@S(0) for 1.0 secs
+@[32216 debug] CLICK on L(584,331)@S(0)[0,0 1440x900] (590 msec)
+Q[32216 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[32216 debug] Observer: update result: Patterns: false
+H[32216 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[33222 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892877558 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png) S: 0.699999988079071
+Q[33222 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[33223 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[33223 debug] Observing: add observer: now running 8 observer(s)
+3[33349 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[33362 debug] Finder::possibleImageResizeOrCallback: resize
+8[33363 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (71x29)
+%[33363 debug] Finder2: doFind: start
+D[33461 debug] Finder2: doFind: in original: %98.6258 (?70) 98 msec 
++[33462 debug] Finder2: doFind: end 99 msec
+›[33463 debug] Observer: APPEAR: 1549892877558 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png) S: 0.699999988079071 at: M[630,316 71x29]@S(S(0)[0,0 1440x900]) S:0.99 C:665,330 [0 msec]
+2[33463 debug] Observer: running call back: APPEAR
+;[33464 debug] highlight M[630,316 71x29]@S(0) for 1.0 secs
+@[35112 debug] CLICK on L(665,330)@S(0)[0,0 1440x900] (603 msec)
+Q[35112 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[35112 debug] Observer: update result: Patterns: false
+H[35112 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[36115 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892880451 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png) S: 0.699999988079071
+Q[36115 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[36116 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+A[36116 debug] Observing: add observer: now running 9 observer(s)
+3[36243 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[36255 debug] Finder::possibleImageResizeOrCallback: resize
+8[36256 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (72x27)
+%[36256 debug] Finder2: doFind: start
+E[36357 debug] Finder2: doFind: in original: %99.5141 (?70) 101 msec 
+,[36358 debug] Finder2: doFind: end 102 msec
+›[36359 debug] Observer: APPEAR: 1549892880451 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png) S: 0.699999988079071 at: M[709,317 72x27]@S(S(0)[0,0 1440x900]) S:1.00 C:745,330 [0 msec]
+2[36359 debug] Observer: running call back: APPEAR
+;[36360 debug] highlight M[709,317 72x27]@S(0) for 1.0 secs
+@[38030 debug] CLICK on L(745,330)@S(0)[0,0 1440x900] (605 msec)
+Q[38030 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[38030 debug] Observer: update result: Patterns: false
+H[38030 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[39035 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892883370 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png) S: 0.699999988079071
+Q[39036 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[39036 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+B[39037 debug] Observing: add observer: now running 10 observer(s)
+3[39163 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[39181 debug] Finder::possibleImageResizeOrCallback: resize
+8[39181 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (73x28)
+%[39182 debug] Finder2: doFind: start
+E[39330 debug] Finder2: doFind: in original: %99.6007 (?70) 148 msec 
+,[39330 debug] Finder2: doFind: end 148 msec
+›[39331 debug] Observer: APPEAR: 1549892883370 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png) S: 0.699999988079071 at: M[789,316 73x28]@S(S(0)[0,0 1440x900]) S:1.00 C:825,330 [0 msec]
+2[39331 debug] Observer: running call back: APPEAR
+;[39332 debug] highlight M[789,316 73x28]@S(0) for 1.0 secs
+@[40981 debug] CLICK on L(825,330)@S(0)[0,0 1440x900] (607 msec)
+Q[40981 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[40982 debug] Observer: update result: Patterns: false
+H[40982 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[41984 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892886319 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png) S: 0.699999988079071
+Q[41984 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[41984 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+B[41984 debug] Observing: add observer: now running 11 observer(s)
+3[42108 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[42117 debug] Finder::possibleImageResizeOrCallback: resize
+8[42117 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (73x30)
+%[42118 debug] Finder2: doFind: start
+D[42210 debug] Finder2: doFind: in original: %98.8122 (?70) 92 msec 
++[42210 debug] Finder2: doFind: end 92 msec
+›[42211 debug] Observer: APPEAR: 1549892886319 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png) S: 0.699999988079071 at: M[869,316 73x30]@S(S(0)[0,0 1440x900]) S:0.99 C:905,331 [0 msec]
+2[42212 debug] Observer: running call back: APPEAR
+;[42212 debug] highlight M[869,316 73x30]@S(0) for 1.0 secs
+@[43857 debug] CLICK on L(905,331)@S(0)[0,0 1440x900] (602 msec)
+Q[43857 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[43857 debug] Observer: update result: Patterns: false
+H[43857 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+√[44857 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892889193 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid0.png) S: 0.699999988079071
+Q[44858 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[44858 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+B[44858 debug] Observing: add observer: now running 12 observer(s)
+3[44979 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[44988 debug] Finder::possibleImageResizeOrCallback: resize
+8[44988 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (91x27)
+%[44988 debug] Finder2: doFind: start
+E[45091 debug] Finder2: doFind: in original: %88.2372 (?70) 103 msec 
+,[45091 debug] Finder2: doFind: end 103 msec
+‹[45095 debug] Observer: APPEAR: 1549892889193 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid0.png) S: 0.699999988079071 at: M[465,419 91x27]@S(S(0)[0,0 1440x900]) S:0.88 C:510,432 [0 msec]
+2[45095 debug] Observer: running call back: APPEAR
+;[45095 debug] highlight M[465,419 91x27]@S(0) for 1.0 secs
+@[46755 debug] CLICK on L(510,432)@S(0)[0,0 1440x900] (602 msec)
+Q[46755 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[46755 debug] Observer: update result: Patterns: false
+H[46755 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+¬[47755 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892892091 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071
+Q[47756 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[47756 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+B[47756 debug] Observing: add observer: now running 13 observer(s)
+1[47888 debug] Finder2: makeMat: INT_RGB (115x38)
+<[47888 debug] Finder::possibleImageResizeOrCallback: resize
+9[47888 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+%[47889 debug] Finder2: doFind: start
+C[47889 debug] Finder2: doFind: in original: %90.2732 (?95) 0 msec 
+*[47889 debug] Finder2: doFind: end 0 msec
+3[47889 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[47901 debug] Finder::possibleImageResizeOrCallback: resize
+9[47901 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+%[47901 debug] Finder2: doFind: start
+E[48018 debug] Finder2: doFind: in original: %90.2722 (?70) 117 msec 
+,[48018 debug] Finder2: doFind: end 117 msec
+‹[48019 debug] Observer: APPEAR: 1549892864569 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071 at: M[853,686 115x38]@S(S(0)[0,0 1440x900]) S:0.90 C:910,705 [0 msec]
+2[48019 debug] Observer: running call back: APPEAR
+<[48019 debug] highlight M[853,686 115x38]@S(0) for 1.0 secs
+@[49653 debug] CLICK on L(910,705)@S(0)[0,0 1440x900] (598 msec)
+Q[49653 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[49653 debug] Observer: update result: Patterns: false
+H[49653 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+:[50654 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+£[51766 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png to appear in R[0,0 1440x900]@S(0)
+3[51892 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[51905 debug] Finder::possibleImageResizeOrCallback: resize
+9[51906 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (120x42)
+%[51906 debug] Finder2: doFind: start
+E[52069 debug] Finder2: doFind: in original: %57.4722 (?70) 163 msec 
+,[52069 debug] Finder2: doFind: end 163 msec
+3[52225 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[52238 debug] Finder2: doFind: start
+E[52374 debug] Finder2: doFind: in original: %57.4722 (?70) 136 msec 
+,[52374 debug] Finder2: doFind: end 136 msec
+3[52554 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[52567 debug] Finder2: doFind: start
+E[52699 debug] Finder2: doFind: in original: %57.4722 (?70) 132 msec 
+,[52699 debug] Finder2: doFind: end 132 msec
+3[52906 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[52915 debug] Finder2: doFind: start
+E[53083 debug] Finder2: doFind: in original: %57.4722 (?70) 168 msec 
+,[53083 debug] Finder2: doFind: end 168 msec
+3[53242 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[53253 debug] Finder2: doFind: start
+E[53388 debug] Finder2: doFind: in original: %57.4722 (?70) 134 msec 
+,[53388 debug] Finder2: doFind: end 134 msec
+3[53571 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[53580 debug] Finder2: doFind: start
+E[53713 debug] Finder2: doFind: in original: %57.4722 (?70) 133 msec 
+,[53713 debug] Finder2: doFind: end 133 msec
+3[53900 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[53908 debug] Finder2: doFind: start
+E[54039 debug] Finder2: doFind: in original: %57.4722 (?70) 131 msec 
+,[54039 debug] Finder2: doFind: end 131 msec
+3[54246 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[54261 debug] Finder2: doFind: start
+E[54395 debug] Finder2: doFind: in original: %57.4722 (?70) 134 msec 
+,[54395 debug] Finder2: doFind: end 134 msec
+3[54586 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[54599 debug] Finder2: doFind: start
+E[54731 debug] Finder2: doFind: in original: %57.4722 (?70) 132 msec 
+,[54731 debug] Finder2: doFind: end 132 msec
+3[54918 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[54937 debug] Finder2: doFind: start
+E[55103 debug] Finder2: doFind: in original: %57.4722 (?70) 166 msec 
+,[55103 debug] Finder2: doFind: end 166 msec
+3[55253 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[55262 debug] Finder2: doFind: start
+E[55403 debug] Finder2: doFind: in original: %57.4722 (?70) 141 msec 
+,[55403 debug] Finder2: doFind: end 141 msec
+3[55590 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[55599 debug] Finder2: doFind: start
+E[55750 debug] Finder2: doFind: in original: %57.4722 (?70) 151 msec 
+,[55750 debug] Finder2: doFind: end 151 msec
+3[55927 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[55936 debug] Finder2: doFind: start
+E[56075 debug] Finder2: doFind: in original: %57.4722 (?70) 139 msec 
+,[56075 debug] Finder2: doFind: end 139 msec
+3[56261 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[56275 debug] Finder2: doFind: start
+E[56427 debug] Finder2: doFind: in original: %57.4722 (?70) 152 msec 
+,[56427 debug] Finder2: doFind: end 152 msec
+3[56593 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[56611 debug] Finder2: doFind: start
+E[56760 debug] Finder2: doFind: in original: %57.4722 (?70) 149 msec 
+,[56760 debug] Finder2: doFind: end 149 msec
+á[56809 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png did not appear [5043 msec]
+√[56810 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892901146 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png) S: 0.699999988079071
+Q[56814 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[56814 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+B[56815 debug] Observing: add observer: now running 14 observer(s)
+3[56942 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[56955 debug] Finder::possibleImageResizeOrCallback: resize
+9[56956 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (122x43)
+%[56956 debug] Finder2: doFind: start
+E[57137 debug] Finder2: doFind: in original: %97.4338 (?70) 181 msec 
+,[57137 debug] Finder2: doFind: end 181 msec
+›[57138 debug] Observer: APPEAR: 1549892901146 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png) S: 0.699999988079071 at: M[849,790 122x43]@S(S(0)[0,0 1440x900]) S:0.97 C:910,811 [0 msec]
+2[57138 debug] Observer: running call back: APPEAR
+<[57138 debug] highlight M[849,790 122x43]@S(0) for 1.0 secs
+@[58778 debug] CLICK on L(910,811)@S(0)[0,0 1440x900] (593 msec)
+Q[58778 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[58778 debug] Observer: update result: Patterns: false
+H[58778 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[59780 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892904116 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png) S: 0.699999988079071
+Q[59780 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+J[59781 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+B[59781 debug] Observing: add observer: now running 15 observer(s)
+3[59902 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[59915 debug] Finder::possibleImageResizeOrCallback: resize
+9[59916 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (117x38)
+%[59916 debug] Finder2: doFind: start
+E[60021 debug] Finder2: doFind: in original: %90.1318 (?70) 105 msec 
+,[60021 debug] Finder2: doFind: end 105 msec
+ﬁ[60022 debug] Observer: APPEAR: 1549892904116 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png) S: 0.699999988079071 at: M[853,643 117x38]@S(S(0)[0,0 1440x900]) S:0.90 C:911,662 [0 msec]
+2[60022 debug] Observer: running call back: APPEAR
+<[60022 debug] highlight M[853,643 117x38]@S(0) for 1.0 secs
+@[61685 debug] CLICK on L(911,662)@S(0)[0,0 1440x900] (604 msec)
+Q[61685 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+7[61685 debug] Observer: update result: Patterns: false
+H[61685 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+:[62687 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+¢[63821 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png to appear in R[0,0 1440x900]@S(0)
+3[63946 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[63955 debug] Finder::possibleImageResizeOrCallback: resize
+9[63956 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (551x73)
+%[63956 debug] Finder2: doFind: start
+E[64104 debug] Finder2: doFind: in original: %98.3833 (?70) 148 msec 
+,[64105 debug] Finder2: doFind: end 149 msec
+æ[64105 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png has appeared (M[444,193 551x73]@S(S(0)[0,0 1440x900]) S:0.98 C:719,229 [284 msec])
+:[64106 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+:[65191 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+ä[66315 debug] Region: waiting for /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png to vanish within 20.0 secs
+1[66440 debug] Finder2: makeMat: INT_RGB (551x73)
+<[66445 debug] Finder::possibleImageResizeOrCallback: resize
+9[66446 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (551x73)
+%[66447 debug] Finder2: doFind: start
+D[66451 debug] Finder2: doFind: in original: %-11.8305 (?97) 4 msec 
+*[66451 debug] Finder2: doFind: end 4 msec
+/[66451 debug] Region: checkLastSeen: not there
+3[66451 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[66462 debug] Finder::possibleImageResizeOrCallback: resize
+9[66463 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (551x73)
+%[66463 debug] Finder2: doFind: start
+E[66586 debug] Finder2: doFind: in original: %98.3833 (?70) 123 msec 
+,[66586 debug] Finder2: doFind: end 123 msec
+3[66772 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[66780 debug] Finder2: doFind: start
+D[66872 debug] Finder2: doFind: in original: %98.3833 (?70) 92 msec 
++[66872 debug] Finder2: doFind: end 92 msec
+3[67109 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[67121 debug] Finder2: doFind: start
+E[67228 debug] Finder2: doFind: in original: %98.3833 (?70) 107 msec 
+,[67228 debug] Finder2: doFind: end 107 msec
+3[67462 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[67474 debug] Finder2: doFind: start
+E[67576 debug] Finder2: doFind: in original: %98.3833 (?70) 102 msec 
+,[67576 debug] Finder2: doFind: end 102 msec
+3[67784 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[67795 debug] Finder2: doFind: start
+E[67913 debug] Finder2: doFind: in original: %98.3833 (?70) 118 msec 
+,[67913 debug] Finder2: doFind: end 118 msec
+3[68114 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[68128 debug] Finder2: doFind: start
+E[68235 debug] Finder2: doFind: in original: %98.3833 (?70) 107 msec 
+,[68235 debug] Finder2: doFind: end 107 msec
+3[68461 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[68472 debug] Finder2: doFind: start
+E[68610 debug] Finder2: doFind: in original: %98.3833 (?70) 138 msec 
+,[68610 debug] Finder2: doFind: end 138 msec
+3[68791 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[68801 debug] Finder2: doFind: start
+D[68895 debug] Finder2: doFind: in original: %98.3833 (?70) 94 msec 
++[68895 debug] Finder2: doFind: end 94 msec
+3[69126 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[69136 debug] Finder2: doFind: start
+E[69236 debug] Finder2: doFind: in original: %98.3833 (?70) 100 msec 
+,[69236 debug] Finder2: doFind: end 100 msec
+3[69456 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[69468 debug] Finder2: doFind: start
+E[69570 debug] Finder2: doFind: in original: %98.3833 (?70) 102 msec 
+,[69570 debug] Finder2: doFind: end 102 msec
+3[69793 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[69804 debug] Finder2: doFind: start
+E[69910 debug] Finder2: doFind: in original: %98.3833 (?70) 106 msec 
+,[69910 debug] Finder2: doFind: end 106 msec
+3[70127 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[70138 debug] Finder2: doFind: start
+E[70239 debug] Finder2: doFind: in original: %98.3833 (?70) 101 msec 
+,[70239 debug] Finder2: doFind: end 101 msec
+3[70465 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[70477 debug] Finder2: doFind: start
+E[70579 debug] Finder2: doFind: in original: %98.3833 (?70) 102 msec 
+,[70579 debug] Finder2: doFind: end 102 msec
+3[70798 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[70809 debug] Finder2: doFind: start
+E[70916 debug] Finder2: doFind: in original: %98.3833 (?70) 107 msec 
+,[70916 debug] Finder2: doFind: end 107 msec
+3[71135 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[71153 debug] Finder2: doFind: start
+E[71288 debug] Finder2: doFind: in original: %98.3833 (?70) 135 msec 
+,[71288 debug] Finder2: doFind: end 135 msec
+3[71466 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[71475 debug] Finder2: doFind: start
+E[71576 debug] Finder2: doFind: in original: %98.3833 (?70) 101 msec 
+,[71576 debug] Finder2: doFind: end 101 msec
+3[71791 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[71801 debug] Finder2: doFind: start
+E[71902 debug] Finder2: doFind: in original: %98.3833 (?70) 101 msec 
+,[71902 debug] Finder2: doFind: end 101 msec
+3[72130 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[72139 debug] Finder2: doFind: start
+E[72245 debug] Finder2: doFind: in original: %98.3833 (?70) 106 msec 
+,[72245 debug] Finder2: doFind: end 106 msec
+3[72480 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[72491 debug] Finder2: doFind: start
+D[72589 debug] Finder2: doFind: in original: %98.3833 (?70) 98 msec 
++[72589 debug] Finder2: doFind: end 98 msec
+3[72812 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[72825 debug] Finder2: doFind: start
+E[72928 debug] Finder2: doFind: in original: %98.3833 (?70) 103 msec 
+,[72928 debug] Finder2: doFind: end 103 msec
+3[73153 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[73167 debug] Finder2: doFind: start
+D[73264 debug] Finder2: doFind: in original: %98.3833 (?70) 97 msec 
++[73264 debug] Finder2: doFind: end 97 msec
+3[73495 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[73506 debug] Finder2: doFind: start
+E[73607 debug] Finder2: doFind: in original: %98.3833 (?70) 101 msec 
+,[73607 debug] Finder2: doFind: end 101 msec
+3[73820 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[73832 debug] Finder2: doFind: start
+D[73930 debug] Finder2: doFind: in original: %98.3833 (?70) 98 msec 
++[73930 debug] Finder2: doFind: end 98 msec
+3[74162 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[74170 debug] Finder2: doFind: start
+E[74289 debug] Finder2: doFind: in original: %98.3833 (?70) 119 msec 
+,[74289 debug] Finder2: doFind: end 119 msec
+3[74486 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[74496 debug] Finder2: doFind: start
+E[74599 debug] Finder2: doFind: in original: %98.3833 (?70) 103 msec 
+,[74599 debug] Finder2: doFind: end 103 msec
+3[74827 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[74836 debug] Finder2: doFind: start
+D[74935 debug] Finder2: doFind: in original: %98.3833 (?70) 99 msec 
++[74935 debug] Finder2: doFind: end 99 msec
+3[75164 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[75174 debug] Finder2: doFind: start
+D[75272 debug] Finder2: doFind: in original: %98.3833 (?70) 98 msec 
++[75272 debug] Finder2: doFind: end 98 msec
+3[75497 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[75508 debug] Finder2: doFind: start
+E[75614 debug] Finder2: doFind: in original: %98.3833 (?70) 106 msec 
+,[75615 debug] Finder2: doFind: end 107 msec
+3[75839 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[75851 debug] Finder2: doFind: start
+E[75956 debug] Finder2: doFind: in original: %98.3833 (?70) 105 msec 
+,[75956 debug] Finder2: doFind: end 105 msec
+3[76172 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[76184 debug] Finder2: doFind: start
+E[76288 debug] Finder2: doFind: in original: %98.3833 (?70) 104 msec 
+,[76288 debug] Finder2: doFind: end 104 msec
+3[76505 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[76519 debug] Finder2: doFind: start
+E[76623 debug] Finder2: doFind: in original: %98.3833 (?70) 104 msec 
+,[76623 debug] Finder2: doFind: end 104 msec
+3[76849 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[76861 debug] Finder2: doFind: start
+E[76962 debug] Finder2: doFind: in original: %98.3833 (?70) 101 msec 
+,[76963 debug] Finder2: doFind: end 102 msec
+3[77174 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[77185 debug] Finder2: doFind: start
+E[77290 debug] Finder2: doFind: in original: %98.3833 (?70) 104 msec 
+,[77290 debug] Finder2: doFind: end 105 msec
+3[77514 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[77526 debug] Finder2: doFind: start
+E[77657 debug] Finder2: doFind: in original: %98.3833 (?70) 131 msec 
+,[77657 debug] Finder2: doFind: end 131 msec
+3[77836 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[77845 debug] Finder2: doFind: start
+D[77931 debug] Finder2: doFind: in original: %98.3833 (?70) 86 msec 
++[77931 debug] Finder2: doFind: end 86 msec
+3[78178 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[78188 debug] Finder2: doFind: start
+E[78291 debug] Finder2: doFind: in original: %98.3833 (?70) 103 msec 
+,[78291 debug] Finder2: doFind: end 103 msec
+3[78526 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[78535 debug] Finder2: doFind: start
+E[78651 debug] Finder2: doFind: in original: %98.3833 (?70) 116 msec 
+,[78651 debug] Finder2: doFind: end 116 msec
+3[78879 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[78897 debug] Finder2: doFind: start
+E[79019 debug] Finder2: doFind: in original: %40.0937 (?70) 122 msec 
+,[79019 debug] Finder2: doFind: end 122 msec
+l[79019 debug] Region: /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png vanished
+:[79019 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+•[80154 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png to appear in R[0,0 1440x900]@S(0)
+3[80293 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[80307 debug] Finder::possibleImageResizeOrCallback: resize
+9[80308 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (549x62)
+%[80308 debug] Finder2: doFind: start
+E[80455 debug] Finder2: doFind: in original: %96.9491 (?70) 147 msec 
+,[80455 debug] Finder2: doFind: end 147 msec
+¡[80456 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png has appeared (M[445,360 549x62]@S(S(0)[0,0 1440x900]) S:0.97 C:719,391 [302 msec])
+:[80456 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+ç[81609 debug] Region: waiting for /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png to vanish within 30.0 secs
+1[81744 debug] Finder2: makeMat: INT_RGB (549x62)
+<[81751 debug] Finder::possibleImageResizeOrCallback: resize
+9[81752 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (549x62)
+%[81753 debug] Finder2: doFind: start
+B[81756 debug] Finder2: doFind: in original: %1.1503 (?96) 3 msec 
+*[81756 debug] Finder2: doFind: end 3 msec
+/[81756 debug] Region: checkLastSeen: not there
+3[81756 debug] Finder2: makeMat: INT_RGB (1440x900)
+<[81769 debug] Finder::possibleImageResizeOrCallback: resize
+9[81769 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (549x62)
+%[81770 debug] Finder2: doFind: start
+E[81904 debug] Finder2: doFind: in original: %96.9491 (?70) 134 msec 
+,[81904 debug] Finder2: doFind: end 134 msec
+3[82093 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[82111 debug] Finder2: doFind: start
+E[82256 debug] Finder2: doFind: in original: %96.9491 (?70) 145 msec 
+,[82256 debug] Finder2: doFind: end 145 msec
+3[82437 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[82452 debug] Finder2: doFind: start
+E[82569 debug] Finder2: doFind: in original: %96.9491 (?70) 117 msec 
+,[82569 debug] Finder2: doFind: end 117 msec
+3[82757 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[82779 debug] Finder2: doFind: start
+E[82939 debug] Finder2: doFind: in original: %96.9491 (?70) 160 msec 
+,[82939 debug] Finder2: doFind: end 160 msec
+3[83079 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[83089 debug] Finder2: doFind: start
+E[83216 debug] Finder2: doFind: in original: %96.9493 (?70) 127 msec 
+,[83216 debug] Finder2: doFind: end 127 msec
+3[83426 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[83437 debug] Finder2: doFind: start
+E[83552 debug] Finder2: doFind: in original: %96.9491 (?70) 115 msec 
+,[83552 debug] Finder2: doFind: end 115 msec
+3[83765 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[83775 debug] Finder2: doFind: start
+E[83890 debug] Finder2: doFind: in original: %96.9491 (?70) 115 msec 
+,[83891 debug] Finder2: doFind: end 116 msec
+3[84094 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[84106 debug] Finder2: doFind: start
+E[84227 debug] Finder2: doFind: in original: %96.9491 (?70) 120 msec 
+,[84227 debug] Finder2: doFind: end 120 msec
+3[84436 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[84455 debug] Finder2: doFind: start
+E[84580 debug] Finder2: doFind: in original: %96.9491 (?70) 125 msec 
+,[84580 debug] Finder2: doFind: end 125 msec
+3[84760 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[84774 debug] Finder2: doFind: start
+E[84893 debug] Finder2: doFind: in original: %96.9491 (?70) 119 msec 
+,[84893 debug] Finder2: doFind: end 119 msec
+3[85095 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[85108 debug] Finder2: doFind: start
+E[85228 debug] Finder2: doFind: in original: %96.9491 (?70) 120 msec 
+,[85229 debug] Finder2: doFind: end 121 msec
+3[85424 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[85438 debug] Finder2: doFind: start
+E[85559 debug] Finder2: doFind: in original: %96.9491 (?70) 121 msec 
+,[85559 debug] Finder2: doFind: end 121 msec
+3[85764 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[85777 debug] Finder2: doFind: start
+E[85894 debug] Finder2: doFind: in original: %96.9491 (?70) 117 msec 
+,[85894 debug] Finder2: doFind: end 117 msec
+3[86100 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[86113 debug] Finder2: doFind: start
+E[86238 debug] Finder2: doFind: in original: %96.9491 (?70) 124 msec 
+,[86238 debug] Finder2: doFind: end 124 msec
+3[86442 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[86456 debug] Finder2: doFind: start
+E[86605 debug] Finder2: doFind: in original: %96.9495 (?70) 149 msec 
+,[86605 debug] Finder2: doFind: end 149 msec
+3[86769 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[86779 debug] Finder2: doFind: start
+E[86890 debug] Finder2: doFind: in original: %96.9491 (?70) 111 msec 
+,[86891 debug] Finder2: doFind: end 112 msec
+3[87096 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[87106 debug] Finder2: doFind: start
+E[87223 debug] Finder2: doFind: in original: %96.9491 (?70) 116 msec 
+,[87223 debug] Finder2: doFind: end 116 msec
+3[87437 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[87450 debug] Finder2: doFind: start
+E[87569 debug] Finder2: doFind: in original: %96.9493 (?70) 119 msec 
+,[87569 debug] Finder2: doFind: end 119 msec
+3[87774 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[87787 debug] Finder2: doFind: start
+E[87890 debug] Finder2: doFind: in original: %96.9491 (?70) 103 msec 
+,[87890 debug] Finder2: doFind: end 103 msec
+3[88083 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[88093 debug] Finder2: doFind: start
+E[88195 debug] Finder2: doFind: in original: %96.9491 (?70) 102 msec 
+,[88195 debug] Finder2: doFind: end 102 msec
+3[88420 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[88432 debug] Finder2: doFind: start
+D[88530 debug] Finder2: doFind: in original: %96.9491 (?70) 98 msec 
++[88530 debug] Finder2: doFind: end 98 msec
+3[88758 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[88769 debug] Finder2: doFind: start
+E[88870 debug] Finder2: doFind: in original: %96.9495 (?70) 101 msec 
+,[88870 debug] Finder2: doFind: end 101 msec
+3[89095 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[89106 debug] Finder2: doFind: start
+E[89208 debug] Finder2: doFind: in original: %96.9493 (?70) 102 msec 
+,[89208 debug] Finder2: doFind: end 102 msec
+3[89433 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[89443 debug] Finder2: doFind: start
+E[89543 debug] Finder2: doFind: in original: %96.9491 (?70) 100 msec 
+,[89543 debug] Finder2: doFind: end 100 msec
+3[89767 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[89785 debug] Finder2: doFind: start
+E[89921 debug] Finder2: doFind: in original: %96.9491 (?70) 136 msec 
+,[89921 debug] Finder2: doFind: end 136 msec
+3[90139 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[90151 debug] Finder2: doFind: start
+E[90253 debug] Finder2: doFind: in original: %96.9495 (?70) 102 msec 
+,[90253 debug] Finder2: doFind: end 102 msec
+3[90442 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[90453 debug] Finder2: doFind: start
+D[90551 debug] Finder2: doFind: in original: %96.9491 (?70) 98 msec 
++[90551 debug] Finder2: doFind: end 98 msec
+3[90776 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[90786 debug] Finder2: doFind: start
+E[90888 debug] Finder2: doFind: in original: %96.9491 (?70) 102 msec 
+,[90888 debug] Finder2: doFind: end 102 msec
+3[91111 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[91125 debug] Finder2: doFind: start
+E[91230 debug] Finder2: doFind: in original: %96.9491 (?70) 105 msec 
+,[91230 debug] Finder2: doFind: end 105 msec
+3[91452 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[91462 debug] Finder2: doFind: start
+E[91566 debug] Finder2: doFind: in original: %96.9493 (?70) 104 msec 
+,[91567 debug] Finder2: doFind: end 105 msec
+3[91769 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[91785 debug] Finder2: doFind: start
+E[91892 debug] Finder2: doFind: in original: %96.9491 (?70) 107 msec 
+,[91892 debug] Finder2: doFind: end 107 msec
+3[92120 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[92138 debug] Finder2: doFind: start
+E[92321 debug] Finder2: doFind: in original: %96.9491 (?70) 183 msec 
+,[92322 debug] Finder2: doFind: end 184 msec
+3[92505 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[92519 debug] Finder2: doFind: start
+E[92628 debug] Finder2: doFind: in original: %96.9491 (?70) 109 msec 
+,[92628 debug] Finder2: doFind: end 109 msec
+3[92820 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[92834 debug] Finder2: doFind: start
+E[92957 debug] Finder2: doFind: in original: %96.9491 (?70) 122 msec 
+,[92957 debug] Finder2: doFind: end 122 msec
+3[93150 debug] Finder2: makeMat: INT_RGB (1440x900)
+%[93162 debug] Finder2: doFind: start
+E[93277 debug] Finder2: doFind: in original: %38.2057 (?70) 115 msec 
+,[93277 debug] Finder2: doFind: end 115 msec
+o[93277 debug] Region: /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png vanished
+º[93283 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+º[93284 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+∫[93286 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+<[94289 debug] highlight R[210,280 100x50]@S(0) for 1.0 secs
+=[95500 debug] TextRecognizer: init OK: using as data folder:
+M/Users/qa-team/Library/Application Support/Sikulix/SikulixTesseract/tessdata
+;[96845 debug] highlight R[555,280 80x50]@S(0) for 1.0 secs
+;[99083 debug] highlight R[400,280 80x50]@S(0) for 1.0 secs
+=[101312 debug] highlight R[700,280 204x50]@S(0) for 1.0 secs
+=[103542 debug] highlight R[904,280 150x50]@S(0) for 1.0 secs
+>[105767 debug] highlight R[1070,280 250x50]@S(0) for 1.0 secs
+¢[107047 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png to appear in R[0,0 1440x900]@S(0)
+4[107176 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[107193 debug] Finder::possibleImageResizeOrCallback: resize
+:[107193 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (109x37)
+&[107193 debug] Finder2: doFind: start
+F[107341 debug] Finder2: doFind: in original: %20.1951 (?70) 148 msec 
+-[107341 debug] Finder2: doFind: end 148 msec
+4[107499 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[107513 debug] Finder2: doFind: start
+E[107606 debug] Finder2: doFind: in original: %20.1951 (?70) 93 msec 
+,[107606 debug] Finder2: doFind: end 93 msec
+4[107846 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[107860 debug] Finder2: doFind: start
+E[107957 debug] Finder2: doFind: in original: %20.1951 (?70) 97 msec 
+,[107957 debug] Finder2: doFind: end 97 msec
+4[108175 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[108189 debug] Finder2: doFind: start
+F[108294 debug] Finder2: doFind: in original: %20.1951 (?70) 105 msec 
+-[108294 debug] Finder2: doFind: end 105 msec
+4[108513 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[108529 debug] Finder2: doFind: start
+E[108623 debug] Finder2: doFind: in original: %20.1951 (?70) 94 msec 
+,[108623 debug] Finder2: doFind: end 94 msec
+4[108851 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[108866 debug] Finder2: doFind: start
+E[108964 debug] Finder2: doFind: in original: %20.1951 (?70) 98 msec 
+,[108964 debug] Finder2: doFind: end 98 msec
+4[109186 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[109201 debug] Finder2: doFind: start
+F[109308 debug] Finder2: doFind: in original: %20.1951 (?70) 107 msec 
+-[109308 debug] Finder2: doFind: end 107 msec
+4[109522 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[109538 debug] Finder2: doFind: start
+E[109633 debug] Finder2: doFind: in original: %20.1951 (?70) 95 msec 
+,[109633 debug] Finder2: doFind: end 95 msec
+4[109856 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[109869 debug] Finder2: doFind: start
+E[109961 debug] Finder2: doFind: in original: %20.1951 (?70) 92 msec 
+,[109961 debug] Finder2: doFind: end 92 msec
+4[110190 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[110208 debug] Finder2: doFind: start
+F[110355 debug] Finder2: doFind: in original: %20.1951 (?70) 147 msec 
+-[110355 debug] Finder2: doFind: end 147 msec
+4[110520 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[110529 debug] Finder2: doFind: start
+E[110618 debug] Finder2: doFind: in original: %20.1951 (?70) 89 msec 
+,[110619 debug] Finder2: doFind: end 90 msec
+4[110861 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[110870 debug] Finder2: doFind: start
+E[110964 debug] Finder2: doFind: in original: %20.1951 (?70) 94 msec 
+,[110964 debug] Finder2: doFind: end 94 msec
+4[111202 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[111211 debug] Finder2: doFind: start
+F[111316 debug] Finder2: doFind: in original: %20.1951 (?70) 105 msec 
+-[111316 debug] Finder2: doFind: end 105 msec
+4[111540 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[111554 debug] Finder2: doFind: start
+E[111653 debug] Finder2: doFind: in original: %20.1951 (?70) 99 msec 
+,[111653 debug] Finder2: doFind: end 99 msec
+4[111875 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[111889 debug] Finder2: doFind: start
+E[111985 debug] Finder2: doFind: in original: %20.1951 (?70) 96 msec 
+,[111985 debug] Finder2: doFind: end 96 msec
+Ü[112080 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png did not appear [5033 msec]
+ƒ[112081 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892956417 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png) S: 0.699999988079071
+R[112081 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[112081 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[112081 debug] Observing: add observer: now running 16 observer(s)
+2[112215 debug] Finder2: makeMat: INT_RGB (135x19)
+=[112215 debug] Finder::possibleImageResizeOrCallback: resize
+:[112215 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[112216 debug] Finder2: doFind: start
+D[112216 debug] Finder2: doFind: in original: %90.3954 (?95) 0 msec 
++[112216 debug] Finder2: doFind: end 0 msec
+4[112216 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[112231 debug] Finder::possibleImageResizeOrCallback: resize
+:[112232 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[112232 debug] Finder2: doFind: start
+F[112348 debug] Finder2: doFind: in original: %90.3955 (?70) 116 msec 
+-[112349 debug] Finder2: doFind: end 117 msec
+‹[112349 debug] Observer: APPEAR: 1549892854260 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png) S: 0.699999988079071 at: M[654,24 135x19]@S(S(0)[0,0 1440x900]) S:0.90 C:721,33 [0 msec]
+3[112350 debug] Observer: running call back: APPEAR
+<[112350 debug] highlight M[654,24 135x19]@S(0) for 1.0 secs
+G[114093 debug] DOUBLE CLICK on L(721,33)@S(0)[0,0 1440x900] (709 msec)
+R[114093 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[114093 debug] Observer: update result: Patterns: false
+I[114093 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+<[114094 debug] highlight R[0,135 200x200]@S(0) for 1.0 secs
+8[debug] Commands: click: L(100,160)@S(0)[0,0 1440x900] 
+A[115745 debug] CLICK on L(100,160)@S(0)[0,0 1440x900] (100 msec)
+√[115745 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892960081 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDots.png) S: 0.699999988079071
+R[115746 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[115746 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[115746 debug] Observing: add observer: now running 17 observer(s)
+4[115898 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[115914 debug] Finder::possibleImageResizeOrCallback: resize
+9[115914 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (34x19)
+&[115914 debug] Finder2: doFind: start
+F[116057 debug] Finder2: doFind: in original: %94.3860 (?70) 143 msec 
+-[116058 debug] Finder2: doFind: end 144 msec
+ﬁ[116058 debug] Observer: APPEAR: 1549892960081 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDots.png) S: 0.699999988079071 at: M[1380,294 34x19]@S(S(0)[0,0 1440x900]) S:0.94 C:1397,303 [0 msec]
+3[116059 debug] Observer: running call back: APPEAR
+=[116059 debug] highlight M[1380,294 34x19]@S(0) for 1.0 secs
+B[117725 debug] CLICK on L(1397,303)@S(0)[0,0 1440x900] (596 msec)
+R[117725 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[117725 debug] Observer: update result: Patterns: false
+I[117725 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[118731 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892963067 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDelete.png) S: 0.699999988079071
+R[118731 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[118731 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[118731 debug] Observing: add observer: now running 18 observer(s)
+4[118850 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[118864 debug] Finder::possibleImageResizeOrCallback: resize
+9[118864 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (71x38)
+&[118864 debug] Finder2: doFind: start
+F[118967 debug] Finder2: doFind: in original: %91.7361 (?70) 103 msec 
+-[118967 debug] Finder2: doFind: end 103 msec
+‡[118971 debug] Observer: APPEAR: 1549892963067 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDelete.png) S: 0.699999988079071 at: M[1253,399 71x38]@S(S(0)[0,0 1440x900]) S:0.92 C:1288,418 [0 msec]
+3[118971 debug] Observer: running call back: APPEAR
+=[118971 debug] highlight M[1253,399 71x38]@S(0) for 1.0 secs
+B[120613 debug] CLICK on L(1288,418)@S(0)[0,0 1440x900] (588 msec)
+R[120613 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[120613 debug] Observer: update result: Patterns: false
+I[120613 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+Ã[121618 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892965953 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonConfirmDelete.png) S: 0.699999988079071
+R[121618 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[121618 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[121618 debug] Observing: add observer: now running 19 observer(s)
+4[121747 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[121761 debug] Finder::possibleImageResizeOrCallback: resize
+:[121761 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (120x43)
+&[121762 debug] Finder2: doFind: start
+F[121911 debug] Finder2: doFind: in original: %95.7352 (?70) 149 msec 
+-[121911 debug] Finder2: doFind: end 149 msec
+Ê[121912 debug] Observer: APPEAR: 1549892965953 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonConfirmDelete.png) S: 0.699999988079071 at: M[850,501 120x43]@S(S(0)[0,0 1440x900]) S:0.96 C:910,522 [0 msec]
+3[121912 debug] Observer: running call back: APPEAR
+=[121912 debug] highlight M[850,501 120x43]@S(0) for 1.0 secs
+A[123553 debug] CLICK on L(910,522)@S(0)[0,0 1440x900] (595 msec)
+R[123554 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[123554 debug] Observer: update result: Patterns: false
+I[123554 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+4[126835 debug] App.close: [4447:LaCie RAID Manager]
+3[132440 debug] App.create: [-1:LaCie RAID Manager]
+2[134008 debug] App.open [4627:LaCie RAID Manager]
+Ω[134009 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+Ω[134011 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+ª[134012 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+¢[134012 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png to appear in R[0,0 1440x900]@S(0)
+4[134130 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[134144 debug] Finder::possibleImageResizeOrCallback: resize
+:[134144 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (109x37)
+&[134145 debug] Finder2: doFind: start
+F[134287 debug] Finder2: doFind: in original: %36.2688 (?70) 142 msec 
+-[134287 debug] Finder2: doFind: end 142 msec
+4[134471 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[134484 debug] Finder2: doFind: start
+F[134589 debug] Finder2: doFind: in original: %36.2688 (?70) 105 msec 
+-[134589 debug] Finder2: doFind: end 105 msec
+4[134805 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[134813 debug] Finder2: doFind: start
+F[134923 debug] Finder2: doFind: in original: %36.2688 (?70) 110 msec 
+-[134923 debug] Finder2: doFind: end 110 msec
+4[135146 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[135154 debug] Finder2: doFind: start
+E[135251 debug] Finder2: doFind: in original: %36.2688 (?70) 97 msec 
+,[135251 debug] Finder2: doFind: end 97 msec
+4[135487 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[135501 debug] Finder2: doFind: start
+E[135590 debug] Finder2: doFind: in original: %36.2688 (?70) 89 msec 
+,[135590 debug] Finder2: doFind: end 89 msec
+4[135826 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[135840 debug] Finder2: doFind: start
+E[135936 debug] Finder2: doFind: in original: %36.2688 (?70) 96 msec 
+,[135936 debug] Finder2: doFind: end 96 msec
+4[136162 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[136175 debug] Finder2: doFind: start
+E[136274 debug] Finder2: doFind: in original: %36.2688 (?70) 98 msec 
+,[136274 debug] Finder2: doFind: end 98 msec
+4[136490 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[136503 debug] Finder2: doFind: start
+F[136606 debug] Finder2: doFind: in original: %36.2688 (?70) 103 msec 
+-[136606 debug] Finder2: doFind: end 103 msec
+4[136838 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[136852 debug] Finder2: doFind: start
+E[136947 debug] Finder2: doFind: in original: %36.2688 (?70) 95 msec 
+,[136947 debug] Finder2: doFind: end 95 msec
+4[137172 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[137186 debug] Finder2: doFind: start
+E[137279 debug] Finder2: doFind: in original: %36.2688 (?70) 93 msec 
+,[137279 debug] Finder2: doFind: end 93 msec
+4[137509 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[137524 debug] Finder2: doFind: start
+E[137621 debug] Finder2: doFind: in original: %36.2688 (?70) 97 msec 
+,[137621 debug] Finder2: doFind: end 97 msec
+4[137852 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[137861 debug] Finder2: doFind: start
+F[138005 debug] Finder2: doFind: in original: %36.2688 (?70) 144 msec 
+-[138005 debug] Finder2: doFind: end 144 msec
+4[138177 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[138190 debug] Finder2: doFind: start
+F[138291 debug] Finder2: doFind: in original: %36.2688 (?70) 100 msec 
+-[138292 debug] Finder2: doFind: end 101 msec
+4[138517 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[138534 debug] Finder2: doFind: start
+E[138629 debug] Finder2: doFind: in original: %36.2688 (?70) 95 msec 
+,[138629 debug] Finder2: doFind: end 95 msec
+4[138853 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[138867 debug] Finder2: doFind: start
+E[138962 debug] Finder2: doFind: in original: %36.2688 (?70) 95 msec 
+,[138962 debug] Finder2: doFind: end 95 msec
+Ü[139059 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png did not appear [5046 msec]
+ƒ[139060 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892983396 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png) S: 0.699999988079071
+R[139061 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[139061 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[139061 debug] Observing: add observer: now running 20 observer(s)
+2[139197 debug] Finder2: makeMat: INT_RGB (135x19)
+=[139198 debug] Finder::possibleImageResizeOrCallback: resize
+:[139198 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[139198 debug] Finder2: doFind: start
+D[139199 debug] Finder2: doFind: in original: %90.3954 (?95) 1 msec 
++[139199 debug] Finder2: doFind: end 1 msec
+4[139199 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[139216 debug] Finder::possibleImageResizeOrCallback: resize
+:[139216 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[139216 debug] Finder2: doFind: start
+F[139328 debug] Finder2: doFind: in original: %90.3954 (?70) 112 msec 
+-[139328 debug] Finder2: doFind: end 112 msec
+‹[139329 debug] Observer: APPEAR: 1549892983396 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png) S: 0.699999988079071 at: M[654,24 135x19]@S(S(0)[0,0 1440x900]) S:0.90 C:721,33 [0 msec]
+3[139329 debug] Observer: running call back: APPEAR
+<[139330 debug] highlight M[654,24 135x19]@S(0) for 1.0 secs
+c[140373 debug] Device: Mouse: moved externally: now (964,414) was (910,522) (mouseMovedResponse 0)
+G[141085 debug] DOUBLE CLICK on L(721,33)@S(0)[0,0 1440x900] (712 msec)
+R[141085 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[141085 debug] Observer: update result: Patterns: false
+I[141085 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+¡[141086 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonOverview.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonOverview.png)
+Ω[141087 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/arraysClosed.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/arraysClosed.png)
+∑[141092 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/iconArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/iconArray.png)
+Ω[141094 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDelete.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDelete.png)
+≈[141096 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png)
+À[141099 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonConfirmDelete.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonConfirmDelete.png)
+π[141100 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDots.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDots.png)
+π[141102 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonInfo.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonInfo.png)
+«[141104 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png)
+ø[141105 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png)
+Ω[141107 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+Ω[141108 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+ª[141109 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+<[141110 debug] highlight R[0,135 200x200]@S(0) for 1.0 secs
+8[debug] Commands: click: L(100,160)@S(0)[0,0 1440x900] 
+@[142775 debug] CLICK on L(100,160)@S(0)[0,0 1440x900] (99 msec)
+ [142775 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892987111 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png) S: 0.699999988079071
+R[142776 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[142776 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[142776 debug] Observing: add observer: now running 21 observer(s)
+2[142939 debug] Finder2: makeMat: INT_RGB (114x40)
+=[142940 debug] Finder::possibleImageResizeOrCallback: resize
+:[142940 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (114x40)
+&[142940 debug] Finder2: doFind: start
+D[142941 debug] Finder2: doFind: in original: %89.3580 (?95) 1 msec 
++[142941 debug] Finder2: doFind: end 1 msec
+4[142941 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[142956 debug] Finder::possibleImageResizeOrCallback: resize
+:[142956 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (114x40)
+&[142956 debug] Finder2: doFind: start
+F[143096 debug] Finder2: doFind: in original: %89.3582 (?70) 140 msec 
+-[143097 debug] Finder2: doFind: end 141 msec
+‰[143099 debug] Observer: APPEAR: 1549892987111 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCreateArray.png) S: 0.699999988079071 at: M[745,510 114x40]@S(S(0)[0,0 1440x900]) S:0.89 C:802,530 [0 msec]
+3[143099 debug] Observer: running call back: APPEAR
+=[143100 debug] highlight M[745,510 114x40]@S(0) for 1.0 secs
+A[144768 debug] CLICK on L(802,530)@S(0)[0,0 1440x900] (601 msec)
+R[144768 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[144768 debug] Observer: update result: Patterns: false
+I[144768 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+¡[145774 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/linkQuickArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkQuickArray.png)
+√[145775 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png)
+π[145777 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png)
+ª[145778 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png)
+¡[145780 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png)
+Ω[145781 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png)
+Ω[145782 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonIgnore.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonIgnore.png)
+ª[145783 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid0.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid0.png)
+ª[145784 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid1.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid1.png)
+ª[145785 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid5.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid5.png)
+ª[145787 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid6.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid6.png)
+Ω[145788 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid10.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid10.png)
+Ω[145789 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid50.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid50.png)
+Ω[145790 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid60.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid60.png)
+Ω[145791 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png)
+Ω[145792 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png)
+Ω[145792 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png)
+Ω[145794 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png)
+Ω[145795 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png)
+Ω[145796 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png)
+Ω[145797 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive7.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive7.png)
+Ω[145798 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive8.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive8.png)
+Ω[145799 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive9.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive9.png)
+ø[145799 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive10.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive10.png)
+ø[145801 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive11.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive11.png)
+ø[145802 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive12.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive12.png)
+À[145803 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/autoFormattSwitcher.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/autoFormattSwitcher.png)
+«[145804 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/diskCacheSwitcher.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/diskCacheSwitcher.png)
+Ω[145805 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+Ω[145806 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+ª[145807 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+»[145807 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892990143 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png) S: 0.699999988079071
+R[145808 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[145808 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[145808 debug] Observing: add observer: now running 22 observer(s)
+1[145932 debug] Finder2: makeMat: INT_RGB (66x24)
+=[145933 debug] Finder::possibleImageResizeOrCallback: resize
+9[145933 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (66x24)
+&[145933 debug] Finder2: doFind: start
+D[145933 debug] Finder2: doFind: in original: %91.0266 (?95) 0 msec 
++[145933 debug] Finder2: doFind: end 0 msec
+4[145933 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[145947 debug] Finder::possibleImageResizeOrCallback: resize
+9[145947 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (66x24)
+&[145947 debug] Finder2: doFind: start
+F[146090 debug] Finder2: doFind: in original: %91.0266 (?70) 143 msec 
+-[146090 debug] Finder2: doFind: end 143 msec
+·[146091 debug] Observer: APPEAR: 1549892990143 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/linkCustomArray.png) S: 0.699999988079071 at: M[497,476 66x24]@S(S(0)[0,0 1440x900]) S:0.91 C:530,488 [0 msec]
+3[146091 debug] Observer: running call back: APPEAR
+<[146091 debug] highlight M[497,476 66x24]@S(0) for 1.0 secs
+A[147758 debug] CLICK on L(530,488)@S(0)[0,0 1440x900] (619 msec)
+R[147758 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[147758 debug] Observer: update result: Patterns: false
+I[147758 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+√[148764 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892993100 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071
+R[148764 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[148764 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[148764 debug] Observing: add observer: now running 23 observer(s)
+2[148893 debug] Finder2: makeMat: INT_RGB (115x38)
+=[148893 debug] Finder::possibleImageResizeOrCallback: resize
+:[148894 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[148894 debug] Finder2: doFind: start
+C[148894 debug] Finder2: doFind: in original: %0.0000 (?95) 0 msec 
++[148895 debug] Finder2: doFind: end 1 msec
+4[148895 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[148912 debug] Finder::possibleImageResizeOrCallback: resize
+:[148912 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[148912 debug] Finder2: doFind: start
+E[149010 debug] Finder2: doFind: in original: %90.2742 (?70) 98 msec 
+,[149010 debug] Finder2: doFind: end 98 msec
+›[149011 debug] Observer: APPEAR: 1549892993100 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071 at: M[853,584 115x38]@S(S(0)[0,0 1440x900]) S:0.90 C:910,603 [0 msec]
+3[149011 debug] Observer: running call back: APPEAR
+=[149011 debug] highlight M[853,584 115x38]@S(0) for 1.0 secs
+A[150641 debug] CLICK on L(910,603)@S(0)[0,0 1440x900] (596 msec)
+R[150641 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[150641 debug] Observer: update result: Patterns: false
+I[150641 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+;[151642 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+†[152745 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png to appear in R[0,0 1440x900]@S(0)
+2[152869 debug] Finder2: makeMat: INT_RGB (115x38)
+=[152875 debug] Finder::possibleImageResizeOrCallback: resize
+:[152875 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[152875 debug] Finder2: doFind: start
+C[152876 debug] Finder2: doFind: in original: %1.3405 (?89) 1 msec 
++[152876 debug] Finder2: doFind: end 1 msec
+0[152876 debug] Region: checkLastSeen: not there
+4[152876 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[152893 debug] Finder::possibleImageResizeOrCallback: resize
+:[152893 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[152893 debug] Finder2: doFind: start
+F[153015 debug] Finder2: doFind: in original: %90.6979 (?70) 122 msec 
+-[153015 debug] Finder2: doFind: end 122 msec
+º[153016 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png has appeared (M[853,686 115x38]@S(S(0)[0,0 1440x900]) S:0.91 C:910,705 [271 msec])
+√[153016 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549892997352 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071
+R[153017 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[153017 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[153017 debug] Observing: add observer: now running 24 observer(s)
+2[153135 debug] Finder2: makeMat: INT_RGB (115x38)
+=[153135 debug] Finder::possibleImageResizeOrCallback: resize
+:[153135 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[153136 debug] Finder2: doFind: start
+D[153136 debug] Finder2: doFind: in original: %90.6994 (?95) 0 msec 
++[153136 debug] Finder2: doFind: end 0 msec
+4[153136 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[153147 debug] Finder::possibleImageResizeOrCallback: resize
+:[153147 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[153147 debug] Finder2: doFind: start
+F[153294 debug] Finder2: doFind: in original: %90.6979 (?70) 147 msec 
+-[153294 debug] Finder2: doFind: end 147 msec
+›[153295 debug] Observer: APPEAR: 1549892993100 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071 at: M[853,686 115x38]@S(S(0)[0,0 1440x900]) S:0.91 C:910,705 [0 msec]
+3[153295 debug] Observer: running call back: APPEAR
+=[153295 debug] highlight M[853,686 115x38]@S(0) for 1.0 secs
+A[154941 debug] CLICK on L(910,705)@S(0)[0,0 1440x900] (609 msec)
+R[154941 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[154941 debug] Observer: update result: Patterns: false
+I[154941 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[155946 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893000282 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png) S: 0.699999988079071
+R[155946 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[155946 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[155947 debug] Observing: add observer: now running 25 observer(s)
+1[156072 debug] Finder2: makeMat: INT_RGB (69x26)
+=[156072 debug] Finder::possibleImageResizeOrCallback: resize
+9[156072 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[156073 debug] Finder2: doFind: start
+D[156073 debug] Finder2: doFind: in original: %99.1911 (?95) 0 msec 
++[156073 debug] Finder2: doFind: end 0 msec
+ﬁ[156073 debug] Observer: APPEAR: 1549893000282 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive1.png) S: 0.699999988079071 at: M[471,318 69x26]@S(S(0)[0,0 1440x900]) S:0.99 C:505,331 [0 msec]
+3[156073 debug] Observer: running call back: APPEAR
+<[156073 debug] highlight M[471,318 69x26]@S(0) for 1.0 secs
+A[157715 debug] CLICK on L(505,331)@S(0)[0,0 1440x900] (604 msec)
+R[157715 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[157715 debug] Observer: update result: Patterns: false
+I[157715 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[158718 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893003054 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png) S: 0.699999988079071
+R[158718 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[158718 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[158719 debug] Observing: add observer: now running 26 observer(s)
+1[158849 debug] Finder2: makeMat: INT_RGB (69x26)
+=[158849 debug] Finder::possibleImageResizeOrCallback: resize
+9[158849 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[158849 debug] Finder2: doFind: start
+D[158850 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[158850 debug] Finder2: doFind: end 1 msec
+4[158850 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[158859 debug] Finder::possibleImageResizeOrCallback: resize
+9[158860 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[158860 debug] Finder2: doFind: start
+F[158964 debug] Finder2: doFind: in original: %65.6509 (?70) 104 msec 
+-[158964 debug] Finder2: doFind: end 104 msec
+7[158964 debug] Observer: update result: Patterns: true
+7[158964 debug] Observer: update result: Changes: false
+1[159181 debug] Finder2: makeMat: INT_RGB (69x26)
+=[159181 debug] Finder::possibleImageResizeOrCallback: resize
+9[159181 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[159181 debug] Finder2: doFind: start
+D[159182 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[159182 debug] Finder2: doFind: end 1 msec
+4[159182 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[159193 debug] Finder::possibleImageResizeOrCallback: resize
+9[159194 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[159194 debug] Finder2: doFind: start
+F[159302 debug] Finder2: doFind: in original: %65.6509 (?70) 108 msec 
+-[159302 debug] Finder2: doFind: end 108 msec
+7[159302 debug] Observer: update result: Patterns: true
+7[159302 debug] Observer: update result: Changes: false
+1[159521 debug] Finder2: makeMat: INT_RGB (69x26)
+=[159521 debug] Finder::possibleImageResizeOrCallback: resize
+9[159522 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[159522 debug] Finder2: doFind: start
+D[159522 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[159522 debug] Finder2: doFind: end 0 msec
+4[159522 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[159538 debug] Finder::possibleImageResizeOrCallback: resize
+9[159538 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[159538 debug] Finder2: doFind: start
+F[159642 debug] Finder2: doFind: in original: %65.6509 (?70) 104 msec 
+-[159642 debug] Finder2: doFind: end 104 msec
+7[159642 debug] Observer: update result: Patterns: true
+7[159642 debug] Observer: update result: Changes: false
+1[159867 debug] Finder2: makeMat: INT_RGB (69x26)
+=[159868 debug] Finder::possibleImageResizeOrCallback: resize
+9[159868 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[159868 debug] Finder2: doFind: start
+D[159868 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[159868 debug] Finder2: doFind: end 0 msec
+4[159869 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[159881 debug] Finder::possibleImageResizeOrCallback: resize
+9[159881 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[159881 debug] Finder2: doFind: start
+E[159977 debug] Finder2: doFind: in original: %65.6509 (?70) 96 msec 
+,[159977 debug] Finder2: doFind: end 96 msec
+7[159977 debug] Observer: update result: Patterns: true
+7[159977 debug] Observer: update result: Changes: false
+1[160190 debug] Finder2: makeMat: INT_RGB (69x26)
+=[160191 debug] Finder::possibleImageResizeOrCallback: resize
+9[160191 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[160191 debug] Finder2: doFind: start
+D[160192 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[160192 debug] Finder2: doFind: end 1 msec
+4[160192 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[160208 debug] Finder::possibleImageResizeOrCallback: resize
+9[160209 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[160209 debug] Finder2: doFind: start
+F[160321 debug] Finder2: doFind: in original: %65.6509 (?70) 111 msec 
+-[160321 debug] Finder2: doFind: end 111 msec
+7[160321 debug] Observer: update result: Patterns: true
+7[160321 debug] Observer: update result: Changes: false
+1[160533 debug] Finder2: makeMat: INT_RGB (69x26)
+=[160533 debug] Finder::possibleImageResizeOrCallback: resize
+9[160533 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[160533 debug] Finder2: doFind: start
+D[160534 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[160534 debug] Finder2: doFind: end 1 msec
+4[160534 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[160551 debug] Finder::possibleImageResizeOrCallback: resize
+9[160551 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[160551 debug] Finder2: doFind: start
+E[160651 debug] Finder2: doFind: in original: %65.6509 (?70) 99 msec 
+,[160651 debug] Finder2: doFind: end 99 msec
+7[160651 debug] Observer: update result: Patterns: true
+7[160651 debug] Observer: update result: Changes: false
+1[160869 debug] Finder2: makeMat: INT_RGB (69x26)
+=[160869 debug] Finder::possibleImageResizeOrCallback: resize
+9[160870 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[160870 debug] Finder2: doFind: start
+D[160870 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[160870 debug] Finder2: doFind: end 0 msec
+4[160870 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[160885 debug] Finder::possibleImageResizeOrCallback: resize
+9[160885 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[160885 debug] Finder2: doFind: start
+F[161004 debug] Finder2: doFind: in original: %65.6509 (?70) 119 msec 
+-[161004 debug] Finder2: doFind: end 119 msec
+7[161004 debug] Observer: update result: Patterns: true
+7[161004 debug] Observer: update result: Changes: false
+1[161186 debug] Finder2: makeMat: INT_RGB (69x26)
+=[161186 debug] Finder::possibleImageResizeOrCallback: resize
+9[161186 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[161186 debug] Finder2: doFind: start
+D[161186 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[161186 debug] Finder2: doFind: end 0 msec
+4[161187 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[161200 debug] Finder::possibleImageResizeOrCallback: resize
+9[161200 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[161201 debug] Finder2: doFind: start
+F[161308 debug] Finder2: doFind: in original: %65.6509 (?70) 107 msec 
+-[161308 debug] Finder2: doFind: end 107 msec
+7[161308 debug] Observer: update result: Patterns: true
+7[161308 debug] Observer: update result: Changes: false
+1[161533 debug] Finder2: makeMat: INT_RGB (69x26)
+=[161534 debug] Finder::possibleImageResizeOrCallback: resize
+9[161534 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[161534 debug] Finder2: doFind: start
+D[161534 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[161534 debug] Finder2: doFind: end 0 msec
+4[161534 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[161551 debug] Finder::possibleImageResizeOrCallback: resize
+9[161552 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[161571 debug] Finder2: doFind: start
+F[161694 debug] Finder2: doFind: in original: %65.6509 (?70) 122 msec 
+-[161694 debug] Finder2: doFind: end 122 msec
+7[161694 debug] Observer: update result: Patterns: true
+7[161694 debug] Observer: update result: Changes: false
+1[161879 debug] Finder2: makeMat: INT_RGB (69x26)
+=[161879 debug] Finder::possibleImageResizeOrCallback: resize
+9[161879 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[161880 debug] Finder2: doFind: start
+D[161880 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[161880 debug] Finder2: doFind: end 0 msec
+4[161880 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[161889 debug] Finder::possibleImageResizeOrCallback: resize
+9[161889 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[161889 debug] Finder2: doFind: start
+E[161985 debug] Finder2: doFind: in original: %65.6509 (?70) 96 msec 
+,[161985 debug] Finder2: doFind: end 96 msec
+7[161985 debug] Observer: update result: Patterns: true
+7[161985 debug] Observer: update result: Changes: false
+1[162193 debug] Finder2: makeMat: INT_RGB (69x26)
+=[162193 debug] Finder::possibleImageResizeOrCallback: resize
+9[162193 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[162193 debug] Finder2: doFind: start
+D[162193 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[162194 debug] Finder2: doFind: end 1 msec
+4[162194 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[162203 debug] Finder::possibleImageResizeOrCallback: resize
+9[162203 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[162203 debug] Finder2: doFind: start
+E[162299 debug] Finder2: doFind: in original: %65.6509 (?70) 96 msec 
+,[162299 debug] Finder2: doFind: end 96 msec
+7[162299 debug] Observer: update result: Patterns: true
+7[162299 debug] Observer: update result: Changes: false
+1[162555 debug] Finder2: makeMat: INT_RGB (69x26)
+=[162555 debug] Finder::possibleImageResizeOrCallback: resize
+9[162555 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[162555 debug] Finder2: doFind: start
+D[162556 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[162556 debug] Finder2: doFind: end 1 msec
+4[162556 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[162567 debug] Finder::possibleImageResizeOrCallback: resize
+9[162568 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[162569 debug] Finder2: doFind: start
+E[162666 debug] Finder2: doFind: in original: %65.6509 (?70) 97 msec 
+,[162666 debug] Finder2: doFind: end 97 msec
+7[162666 debug] Observer: update result: Patterns: true
+7[162666 debug] Observer: update result: Changes: false
+1[162868 debug] Finder2: makeMat: INT_RGB (69x26)
+=[162868 debug] Finder::possibleImageResizeOrCallback: resize
+9[162868 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[162868 debug] Finder2: doFind: start
+D[162869 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[162869 debug] Finder2: doFind: end 1 msec
+4[162870 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[162883 debug] Finder::possibleImageResizeOrCallback: resize
+9[162884 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[162885 debug] Finder2: doFind: start
+F[163008 debug] Finder2: doFind: in original: %65.6509 (?70) 123 msec 
+-[163008 debug] Finder2: doFind: end 123 msec
+7[163008 debug] Observer: update result: Patterns: true
+7[163008 debug] Observer: update result: Changes: false
+1[163216 debug] Finder2: makeMat: INT_RGB (69x26)
+=[163216 debug] Finder::possibleImageResizeOrCallback: resize
+9[163216 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[163217 debug] Finder2: doFind: start
+D[163217 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[163217 debug] Finder2: doFind: end 0 msec
+4[163217 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[163234 debug] Finder::possibleImageResizeOrCallback: resize
+9[163235 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[163236 debug] Finder2: doFind: start
+F[163339 debug] Finder2: doFind: in original: %65.6509 (?70) 103 msec 
+-[163339 debug] Finder2: doFind: end 103 msec
+7[163339 debug] Observer: update result: Patterns: true
+7[163339 debug] Observer: update result: Changes: false
+1[163560 debug] Finder2: makeMat: INT_RGB (69x26)
+=[163561 debug] Finder::possibleImageResizeOrCallback: resize
+9[163561 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[163561 debug] Finder2: doFind: start
+D[163561 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[163562 debug] Finder2: doFind: end 1 msec
+4[163562 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[163578 debug] Finder::possibleImageResizeOrCallback: resize
+9[163578 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[163578 debug] Finder2: doFind: start
+E[163671 debug] Finder2: doFind: in original: %65.6509 (?70) 93 msec 
+,[163672 debug] Finder2: doFind: end 94 msec
+7[163672 debug] Observer: update result: Patterns: true
+7[163672 debug] Observer: update result: Changes: false
+1[163878 debug] Finder2: makeMat: INT_RGB (69x26)
+=[163878 debug] Finder::possibleImageResizeOrCallback: resize
+9[163878 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[163879 debug] Finder2: doFind: start
+D[163879 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[163879 debug] Finder2: doFind: end 0 msec
+4[163880 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[163897 debug] Finder::possibleImageResizeOrCallback: resize
+9[163897 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[163897 debug] Finder2: doFind: start
+F[164010 debug] Finder2: doFind: in original: %65.6509 (?70) 113 msec 
+-[164011 debug] Finder2: doFind: end 114 msec
+7[164011 debug] Observer: update result: Patterns: true
+7[164011 debug] Observer: update result: Changes: false
+1[164216 debug] Finder2: makeMat: INT_RGB (69x26)
+=[164216 debug] Finder::possibleImageResizeOrCallback: resize
+9[164216 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[164217 debug] Finder2: doFind: start
+D[164217 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[164217 debug] Finder2: doFind: end 0 msec
+4[164217 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[164233 debug] Finder::possibleImageResizeOrCallback: resize
+9[164233 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[164233 debug] Finder2: doFind: start
+F[164336 debug] Finder2: doFind: in original: %65.6509 (?70) 103 msec 
+-[164337 debug] Finder2: doFind: end 104 msec
+7[164337 debug] Observer: update result: Patterns: true
+7[164337 debug] Observer: update result: Changes: false
+1[164557 debug] Finder2: makeMat: INT_RGB (69x26)
+=[164558 debug] Finder::possibleImageResizeOrCallback: resize
+9[164558 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[164558 debug] Finder2: doFind: start
+D[164559 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[164559 debug] Finder2: doFind: end 1 msec
+4[164559 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[164576 debug] Finder::possibleImageResizeOrCallback: resize
+9[164576 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[164576 debug] Finder2: doFind: start
+E[164671 debug] Finder2: doFind: in original: %65.6509 (?70) 95 msec 
+,[164671 debug] Finder2: doFind: end 95 msec
+7[164671 debug] Observer: update result: Patterns: true
+7[164671 debug] Observer: update result: Changes: false
+1[164896 debug] Finder2: makeMat: INT_RGB (69x26)
+=[164897 debug] Finder::possibleImageResizeOrCallback: resize
+9[164897 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[164897 debug] Finder2: doFind: start
+D[164897 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[164897 debug] Finder2: doFind: end 0 msec
+4[164897 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[164908 debug] Finder::possibleImageResizeOrCallback: resize
+9[164908 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[164908 debug] Finder2: doFind: start
+F[165043 debug] Finder2: doFind: in original: %65.6509 (?70) 135 msec 
+-[165043 debug] Finder2: doFind: end 135 msec
+7[165043 debug] Observer: update result: Patterns: true
+7[165043 debug] Observer: update result: Changes: false
+1[165219 debug] Finder2: makeMat: INT_RGB (69x26)
+=[165219 debug] Finder::possibleImageResizeOrCallback: resize
+9[165220 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[165220 debug] Finder2: doFind: start
+D[165221 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[165221 debug] Finder2: doFind: end 0 msec
+4[165221 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[165230 debug] Finder::possibleImageResizeOrCallback: resize
+9[165231 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[165231 debug] Finder2: doFind: start
+F[165335 debug] Finder2: doFind: in original: %65.6509 (?70) 104 msec 
+-[165335 debug] Finder2: doFind: end 104 msec
+7[165335 debug] Observer: update result: Patterns: true
+7[165335 debug] Observer: update result: Changes: false
+1[165560 debug] Finder2: makeMat: INT_RGB (69x26)
+=[165561 debug] Finder::possibleImageResizeOrCallback: resize
+9[165561 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[165561 debug] Finder2: doFind: start
+D[165561 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[165561 debug] Finder2: doFind: end 0 msec
+4[165561 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[165572 debug] Finder::possibleImageResizeOrCallback: resize
+9[165572 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[165573 debug] Finder2: doFind: start
+E[165665 debug] Finder2: doFind: in original: %65.6509 (?70) 92 msec 
+,[165665 debug] Finder2: doFind: end 92 msec
+7[165665 debug] Observer: update result: Patterns: true
+7[165665 debug] Observer: update result: Changes: false
+1[165904 debug] Finder2: makeMat: INT_RGB (69x26)
+=[165904 debug] Finder::possibleImageResizeOrCallback: resize
+9[165904 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[165905 debug] Finder2: doFind: start
+D[165905 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[165905 debug] Finder2: doFind: end 0 msec
+4[165905 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[165914 debug] Finder::possibleImageResizeOrCallback: resize
+9[165915 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[165915 debug] Finder2: doFind: start
+F[166021 debug] Finder2: doFind: in original: %65.6509 (?70) 106 msec 
+-[166021 debug] Finder2: doFind: end 106 msec
+7[166021 debug] Observer: update result: Patterns: true
+7[166021 debug] Observer: update result: Changes: false
+1[166232 debug] Finder2: makeMat: INT_RGB (69x26)
+=[166232 debug] Finder::possibleImageResizeOrCallback: resize
+9[166233 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[166233 debug] Finder2: doFind: start
+D[166234 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[166234 debug] Finder2: doFind: end 1 msec
+4[166234 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[166253 debug] Finder::possibleImageResizeOrCallback: resize
+9[166253 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[166253 debug] Finder2: doFind: start
+F[166355 debug] Finder2: doFind: in original: %65.6509 (?70) 102 msec 
+-[166355 debug] Finder2: doFind: end 102 msec
+7[166355 debug] Observer: update result: Patterns: true
+7[166355 debug] Observer: update result: Changes: false
+1[166575 debug] Finder2: makeMat: INT_RGB (69x26)
+=[166575 debug] Finder::possibleImageResizeOrCallback: resize
+9[166575 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[166575 debug] Finder2: doFind: start
+D[166576 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[166576 debug] Finder2: doFind: end 0 msec
+4[166576 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[166591 debug] Finder::possibleImageResizeOrCallback: resize
+9[166591 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[166591 debug] Finder2: doFind: start
+E[166687 debug] Finder2: doFind: in original: %65.6509 (?70) 96 msec 
+,[166687 debug] Finder2: doFind: end 96 msec
+7[166687 debug] Observer: update result: Patterns: true
+7[166687 debug] Observer: update result: Changes: false
+1[166900 debug] Finder2: makeMat: INT_RGB (69x26)
+=[166901 debug] Finder::possibleImageResizeOrCallback: resize
+9[166901 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[166901 debug] Finder2: doFind: start
+D[166902 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[166902 debug] Finder2: doFind: end 1 msec
+4[166902 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[166919 debug] Finder::possibleImageResizeOrCallback: resize
+9[166919 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[166920 debug] Finder2: doFind: start
+F[167037 debug] Finder2: doFind: in original: %65.6509 (?70) 117 msec 
+-[167037 debug] Finder2: doFind: end 117 msec
+7[167037 debug] Observer: update result: Patterns: true
+7[167037 debug] Observer: update result: Changes: false
+1[167238 debug] Finder2: makeMat: INT_RGB (69x26)
+=[167238 debug] Finder::possibleImageResizeOrCallback: resize
+9[167239 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[167239 debug] Finder2: doFind: start
+D[167239 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[167239 debug] Finder2: doFind: end 0 msec
+4[167239 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[167258 debug] Finder::possibleImageResizeOrCallback: resize
+9[167259 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[167260 debug] Finder2: doFind: start
+E[167358 debug] Finder2: doFind: in original: %65.6509 (?70) 98 msec 
+,[167359 debug] Finder2: doFind: end 99 msec
+7[167359 debug] Observer: update result: Patterns: true
+7[167359 debug] Observer: update result: Changes: false
+1[167575 debug] Finder2: makeMat: INT_RGB (69x26)
+=[167575 debug] Finder::possibleImageResizeOrCallback: resize
+9[167576 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[167576 debug] Finder2: doFind: start
+D[167576 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[167576 debug] Finder2: doFind: end 0 msec
+4[167576 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[167590 debug] Finder::possibleImageResizeOrCallback: resize
+9[167590 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[167591 debug] Finder2: doFind: start
+E[167690 debug] Finder2: doFind: in original: %65.6509 (?70) 99 msec 
+,[167690 debug] Finder2: doFind: end 99 msec
+7[167690 debug] Observer: update result: Patterns: true
+7[167690 debug] Observer: update result: Changes: false
+1[167902 debug] Finder2: makeMat: INT_RGB (69x26)
+=[167902 debug] Finder::possibleImageResizeOrCallback: resize
+9[167903 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[167904 debug] Finder2: doFind: start
+D[167904 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[167904 debug] Finder2: doFind: end 0 msec
+4[167904 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[167916 debug] Finder::possibleImageResizeOrCallback: resize
+9[167917 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[167918 debug] Finder2: doFind: start
+F[168057 debug] Finder2: doFind: in original: %65.6509 (?70) 139 msec 
+-[168057 debug] Finder2: doFind: end 139 msec
+7[168057 debug] Observer: update result: Patterns: true
+7[168057 debug] Observer: update result: Changes: false
+1[168243 debug] Finder2: makeMat: INT_RGB (69x26)
+=[168243 debug] Finder::possibleImageResizeOrCallback: resize
+9[168243 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[168244 debug] Finder2: doFind: start
+D[168245 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[168245 debug] Finder2: doFind: end 1 msec
+4[168245 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[168254 debug] Finder::possibleImageResizeOrCallback: resize
+9[168254 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[168255 debug] Finder2: doFind: start
+F[168356 debug] Finder2: doFind: in original: %65.6509 (?70) 101 msec 
+-[168356 debug] Finder2: doFind: end 101 msec
+7[168356 debug] Observer: update result: Patterns: true
+7[168356 debug] Observer: update result: Changes: false
+1[168586 debug] Finder2: makeMat: INT_RGB (69x26)
+=[168586 debug] Finder::possibleImageResizeOrCallback: resize
+9[168587 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[168587 debug] Finder2: doFind: start
+D[168587 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[168587 debug] Finder2: doFind: end 0 msec
+4[168587 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[168595 debug] Finder::possibleImageResizeOrCallback: resize
+9[168596 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[168596 debug] Finder2: doFind: start
+E[168692 debug] Finder2: doFind: in original: %65.6509 (?70) 96 msec 
+,[168692 debug] Finder2: doFind: end 96 msec
+7[168693 debug] Observer: update result: Patterns: true
+7[168693 debug] Observer: update result: Changes: false
+1[168922 debug] Finder2: makeMat: INT_RGB (69x26)
+=[168923 debug] Finder::possibleImageResizeOrCallback: resize
+9[168923 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[168923 debug] Finder2: doFind: start
+D[168924 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[168924 debug] Finder2: doFind: end 1 msec
+4[168924 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[168936 debug] Finder::possibleImageResizeOrCallback: resize
+9[168936 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[168937 debug] Finder2: doFind: start
+F[169041 debug] Finder2: doFind: in original: %65.6509 (?70) 104 msec 
+-[169041 debug] Finder2: doFind: end 104 msec
+7[169041 debug] Observer: update result: Patterns: true
+7[169041 debug] Observer: update result: Changes: false
+1[169256 debug] Finder2: makeMat: INT_RGB (69x26)
+=[169257 debug] Finder::possibleImageResizeOrCallback: resize
+9[169257 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[169257 debug] Finder2: doFind: start
+D[169257 debug] Finder2: doFind: in original: %32.7047 (?95) 0 msec 
++[169257 debug] Finder2: doFind: end 0 msec
+4[169258 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[169278 debug] Finder::possibleImageResizeOrCallback: resize
+9[169279 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[169279 debug] Finder2: doFind: start
+F[169385 debug] Finder2: doFind: in original: %65.6509 (?70) 106 msec 
+-[169385 debug] Finder2: doFind: end 106 msec
+7[169385 debug] Observer: update result: Patterns: true
+7[169385 debug] Observer: update result: Changes: false
+1[169586 debug] Finder2: makeMat: INT_RGB (69x26)
+=[169586 debug] Finder::possibleImageResizeOrCallback: resize
+9[169586 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[169586 debug] Finder2: doFind: start
+D[169587 debug] Finder2: doFind: in original: %32.7047 (?95) 1 msec 
++[169587 debug] Finder2: doFind: end 1 msec
+4[169587 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[169605 debug] Finder::possibleImageResizeOrCallback: resize
+9[169605 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[169605 debug] Finder2: doFind: start
+F[169745 debug] Finder2: doFind: in original: %65.6509 (?70) 139 msec 
+-[169745 debug] Finder2: doFind: end 139 msec
+7[169745 debug] Observer: update result: Patterns: true
+7[169745 debug] Observer: update result: Changes: false
+1[169965 debug] Finder2: makeMat: INT_RGB (69x26)
+=[169965 debug] Finder::possibleImageResizeOrCallback: resize
+9[169966 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (69x26)
+&[169966 debug] Finder2: doFind: start
+D[169966 debug] Finder2: doFind: in original: %98.8352 (?95) 0 msec 
++[169966 debug] Finder2: doFind: end 0 msec
+ﬁ[169967 debug] Observer: APPEAR: 1549893003054 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive2.png) S: 0.699999988079071 at: M[550,318 69x26]@S(S(0)[0,0 1440x900]) S:0.99 C:584,331 [0 msec]
+3[169967 debug] Observer: running call back: APPEAR
+<[169967 debug] highlight M[550,318 69x26]@S(0) for 1.0 secs
+c[171014 debug] Device: Mouse: moved externally: now (881,325) was (505,331) (mouseMovedResponse 0)
+A[171608 debug] CLICK on L(584,331)@S(0)[0,0 1440x900] (594 msec)
+R[171608 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[171608 debug] Observer: update result: Patterns: false
+I[171608 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[172612 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893016948 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png) S: 0.699999988079071
+R[172612 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[172612 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[172612 debug] Observing: add observer: now running 27 observer(s)
+1[172736 debug] Finder2: makeMat: INT_RGB (71x29)
+=[172736 debug] Finder::possibleImageResizeOrCallback: resize
+9[172736 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (71x29)
+&[172736 debug] Finder2: doFind: start
+D[172737 debug] Finder2: doFind: in original: %98.6258 (?95) 1 msec 
++[172737 debug] Finder2: doFind: end 1 msec
+ﬁ[172737 debug] Observer: APPEAR: 1549893016948 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive3.png) S: 0.699999988079071 at: M[630,316 71x29]@S(S(0)[0,0 1440x900]) S:0.99 C:665,330 [0 msec]
+3[172737 debug] Observer: running call back: APPEAR
+<[172737 debug] highlight M[630,316 71x29]@S(0) for 1.0 secs
+A[174394 debug] CLICK on L(665,330)@S(0)[0,0 1440x900] (602 msec)
+R[174394 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[174394 debug] Observer: update result: Patterns: false
+I[174394 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[175399 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893019735 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png) S: 0.699999988079071
+R[175400 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[175400 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[175400 debug] Observing: add observer: now running 28 observer(s)
+1[175522 debug] Finder2: makeMat: INT_RGB (72x27)
+=[175522 debug] Finder::possibleImageResizeOrCallback: resize
+9[175522 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (72x27)
+&[175522 debug] Finder2: doFind: start
+D[175523 debug] Finder2: doFind: in original: %99.5141 (?95) 1 msec 
++[175523 debug] Finder2: doFind: end 1 msec
+ﬁ[175523 debug] Observer: APPEAR: 1549893019735 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive4.png) S: 0.699999988079071 at: M[709,317 72x27]@S(S(0)[0,0 1440x900]) S:1.00 C:745,330 [0 msec]
+3[175524 debug] Observer: running call back: APPEAR
+<[175525 debug] highlight M[709,317 72x27]@S(0) for 1.0 secs
+A[177151 debug] CLICK on L(745,330)@S(0)[0,0 1440x900] (586 msec)
+R[177151 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[177151 debug] Observer: update result: Patterns: false
+I[177151 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[178155 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893022491 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png) S: 0.699999988079071
+R[178156 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[178156 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[178156 debug] Observing: add observer: now running 29 observer(s)
+1[178283 debug] Finder2: makeMat: INT_RGB (73x28)
+=[178283 debug] Finder::possibleImageResizeOrCallback: resize
+9[178284 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (73x28)
+&[178284 debug] Finder2: doFind: start
+D[178284 debug] Finder2: doFind: in original: %99.6007 (?95) 0 msec 
++[178284 debug] Finder2: doFind: end 0 msec
+ﬁ[178284 debug] Observer: APPEAR: 1549893022491 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive5.png) S: 0.699999988079071 at: M[789,316 73x28]@S(S(0)[0,0 1440x900]) S:1.00 C:825,330 [0 msec]
+3[178284 debug] Observer: running call back: APPEAR
+<[178284 debug] highlight M[789,316 73x28]@S(0) for 1.0 secs
+A[179926 debug] CLICK on L(825,330)@S(0)[0,0 1440x900] (602 msec)
+R[179926 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[179926 debug] Observer: update result: Patterns: false
+I[179926 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[180932 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893025268 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png) S: 0.699999988079071
+R[180932 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[180932 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[180932 debug] Observing: add observer: now running 30 observer(s)
+1[181055 debug] Finder2: makeMat: INT_RGB (73x30)
+=[181055 debug] Finder::possibleImageResizeOrCallback: resize
+9[181055 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (73x30)
+&[181055 debug] Finder2: doFind: start
+D[181056 debug] Finder2: doFind: in original: %98.8121 (?95) 1 msec 
++[181056 debug] Finder2: doFind: end 1 msec
+ﬁ[181056 debug] Observer: APPEAR: 1549893025268 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonDrive6.png) S: 0.699999988079071 at: M[869,316 73x30]@S(S(0)[0,0 1440x900]) S:0.99 C:905,331 [0 msec]
+3[181056 debug] Observer: running call back: APPEAR
+<[181056 debug] highlight M[869,316 73x30]@S(0) for 1.0 secs
+A[182701 debug] CLICK on L(905,331)@S(0)[0,0 1440x900] (590 msec)
+R[182701 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[182701 debug] Observer: update result: Patterns: false
+I[182701 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+ƒ[183705 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893028041 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid5.png) S: 0.699999988079071
+R[183705 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[183705 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[183705 debug] Observing: add observer: now running 31 observer(s)
+4[183827 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[183836 debug] Finder::possibleImageResizeOrCallback: resize
+9[183836 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (96x28)
+&[183836 debug] Finder2: doFind: start
+F[183967 debug] Finder2: doFind: in original: %91.3599 (?70) 131 msec 
+-[183967 debug] Finder2: doFind: end 131 msec
+›[183971 debug] Observer: APPEAR: 1549893028041 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/optionRaid5.png) S: 0.699999988079071 at: M[465,479 96x28]@S(S(0)[0,0 1440x900]) S:0.91 C:513,493 [0 msec]
+3[183971 debug] Observer: running call back: APPEAR
+<[183972 debug] highlight M[465,479 96x28]@S(0) for 1.0 secs
+A[185613 debug] CLICK on L(513,493)@S(0)[0,0 1440x900] (595 msec)
+R[185613 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[185613 debug] Observer: update result: Patterns: false
+I[185613 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+√[186618 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893030954 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071
+R[186619 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[186619 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[186619 debug] Observing: add observer: now running 32 observer(s)
+2[186748 debug] Finder2: makeMat: INT_RGB (115x38)
+=[186748 debug] Finder::possibleImageResizeOrCallback: resize
+:[186749 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[186749 debug] Finder2: doFind: start
+D[186750 debug] Finder2: doFind: in original: %90.2714 (?95) 1 msec 
++[186750 debug] Finder2: doFind: end 1 msec
+4[186750 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[186759 debug] Finder::possibleImageResizeOrCallback: resize
+:[186760 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (115x38)
+&[186760 debug] Finder2: doFind: start
+E[186855 debug] Finder2: doFind: in original: %90.2704 (?70) 95 msec 
+,[186855 debug] Finder2: doFind: end 95 msec
+›[186856 debug] Observer: APPEAR: 1549893030954 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext.png) S: 0.699999988079071 at: M[853,686 115x38]@S(S(0)[0,0 1440x900]) S:0.90 C:910,705 [0 msec]
+3[186856 debug] Observer: running call back: APPEAR
+=[186856 debug] highlight M[853,686 115x38]@S(0) for 1.0 secs
+A[188486 debug] CLICK on L(910,705)@S(0)[0,0 1440x900] (587 msec)
+R[188486 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[188486 debug] Observer: update result: Patterns: false
+I[188487 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+;[189488 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+§[190611 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png to appear in R[0,0 1440x900]@S(0)
+4[190731 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[190740 debug] Finder::possibleImageResizeOrCallback: resize
+:[190741 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (120x42)
+&[190741 debug] Finder2: doFind: start
+F[190906 debug] Finder2: doFind: in original: %57.4710 (?70) 165 msec 
+-[190906 debug] Finder2: doFind: end 165 msec
+4[191067 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[191080 debug] Finder2: doFind: start
+F[191210 debug] Finder2: doFind: in original: %57.4710 (?70) 130 msec 
+-[191210 debug] Finder2: doFind: end 130 msec
+4[191400 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[191414 debug] Finder2: doFind: start
+F[191546 debug] Finder2: doFind: in original: %57.4710 (?70) 132 msec 
+-[191546 debug] Finder2: doFind: end 132 msec
+4[191749 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[191762 debug] Finder2: doFind: start
+F[191897 debug] Finder2: doFind: in original: %57.4710 (?70) 135 msec 
+-[191897 debug] Finder2: doFind: end 135 msec
+4[192085 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[192099 debug] Finder2: doFind: start
+F[192239 debug] Finder2: doFind: in original: %57.4710 (?70) 139 msec 
+-[192239 debug] Finder2: doFind: end 139 msec
+4[192418 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[192434 debug] Finder2: doFind: start
+F[192564 debug] Finder2: doFind: in original: %57.4710 (?70) 130 msec 
+-[192564 debug] Finder2: doFind: end 130 msec
+4[192762 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[192776 debug] Finder2: doFind: start
+F[192967 debug] Finder2: doFind: in original: %57.4710 (?70) 191 msec 
+-[192967 debug] Finder2: doFind: end 191 msec
+4[193099 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[193115 debug] Finder2: doFind: start
+F[193244 debug] Finder2: doFind: in original: %57.4710 (?70) 129 msec 
+-[193244 debug] Finder2: doFind: end 129 msec
+4[193450 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[193459 debug] Finder2: doFind: start
+F[193586 debug] Finder2: doFind: in original: %57.4710 (?70) 127 msec 
+-[193586 debug] Finder2: doFind: end 127 msec
+4[193775 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[193783 debug] Finder2: doFind: start
+F[193920 debug] Finder2: doFind: in original: %57.4710 (?70) 137 msec 
+-[193920 debug] Finder2: doFind: end 137 msec
+4[194101 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[194114 debug] Finder2: doFind: start
+F[194250 debug] Finder2: doFind: in original: %57.4710 (?70) 136 msec 
+-[194250 debug] Finder2: doFind: end 136 msec
+4[194448 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[194462 debug] Finder2: doFind: start
+F[194601 debug] Finder2: doFind: in original: %57.4710 (?70) 139 msec 
+-[194601 debug] Finder2: doFind: end 139 msec
+4[194794 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[194807 debug] Finder2: doFind: start
+F[194973 debug] Finder2: doFind: in original: %57.4710 (?70) 166 msec 
+-[194973 debug] Finder2: doFind: end 166 msec
+4[195122 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[195138 debug] Finder2: doFind: start
+F[195313 debug] Finder2: doFind: in original: %57.4710 (?70) 175 msec 
+-[195313 debug] Finder2: doFind: end 175 msec
+4[195455 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[195468 debug] Finder2: doFind: start
+F[195646 debug] Finder2: doFind: in original: %57.4710 (?70) 178 msec 
+-[195646 debug] Finder2: doFind: end 178 msec
+à[195659 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonContinue.png did not appear [5047 msec]
+ƒ[195659 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893039995 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png) S: 0.699999988079071
+R[195659 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[195660 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[195660 debug] Observing: add observer: now running 33 observer(s)
+2[195782 debug] Finder2: makeMat: INT_RGB (122x43)
+=[195782 debug] Finder::possibleImageResizeOrCallback: resize
+:[195783 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (122x43)
+&[195783 debug] Finder2: doFind: start
+D[195783 debug] Finder2: doFind: in original: %97.4341 (?95) 0 msec 
++[195783 debug] Finder2: doFind: end 0 msec
+ﬁ[195783 debug] Observer: APPEAR: 1549893039995 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonNext2.png) S: 0.699999988079071 at: M[849,790 122x43]@S(S(0)[0,0 1440x900]) S:0.97 C:910,811 [0 msec]
+3[195783 debug] Observer: running call back: APPEAR
+=[195784 debug] highlight M[849,790 122x43]@S(0) for 1.0 secs
+A[197432 debug] CLICK on L(910,811)@S(0)[0,0 1440x900] (610 msec)
+R[197432 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[197432 debug] Observer: update result: Patterns: false
+I[197432 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+≈[198436 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893042772 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png) S: 0.699999988079071
+R[198436 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[198436 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[198436 debug] Observing: add observer: now running 34 observer(s)
+2[198560 debug] Finder2: makeMat: INT_RGB (117x38)
+=[198560 debug] Finder::possibleImageResizeOrCallback: resize
+:[198561 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (117x38)
+&[198561 debug] Finder2: doFind: start
+D[198561 debug] Finder2: doFind: in original: %90.1322 (?95) 0 msec 
++[198561 debug] Finder2: doFind: end 0 msec
+4[198561 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[198570 debug] Finder::possibleImageResizeOrCallback: resize
+:[198570 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (117x38)
+&[198571 debug] Finder2: doFind: start
+F[198710 debug] Finder2: doFind: in original: %90.1318 (?70) 138 msec 
+-[198710 debug] Finder2: doFind: end 139 msec
+ﬂ[198711 debug] Observer: APPEAR: 1549893042772 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonFinish.png) S: 0.699999988079071 at: M[853,643 117x38]@S(S(0)[0,0 1440x900]) S:0.90 C:911,662 [0 msec]
+3[198711 debug] Observer: running call back: APPEAR
+=[198711 debug] highlight M[853,643 117x38]@S(0) for 1.0 secs
+A[200346 debug] CLICK on L(911,662)@S(0)[0,0 1440x900] (591 msec)
+R[200346 debug] Region: observe: request to stop observer for R[0,0 1440x900]@S(0)
+8[200346 debug] Observer: update result: Patterns: false
+I[200346 debug] Region: observe: ended successfully: R[0,0 1440x900]@S(0)
+;[201347 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+£[202493 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png to appear in R[0,0 1440x900]@S(0)
+2[202636 debug] Finder2: makeMat: INT_RGB (551x73)
+=[202643 debug] Finder::possibleImageResizeOrCallback: resize
+:[202643 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (551x73)
+&[202644 debug] Finder2: doFind: start
+E[202647 debug] Finder2: doFind: in original: %-11.7946 (?97) 3 msec 
++[202647 debug] Finder2: doFind: end 3 msec
+0[202647 debug] Region: checkLastSeen: not there
+4[202647 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[202660 debug] Finder::possibleImageResizeOrCallback: resize
+:[202661 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (551x73)
+&[202662 debug] Finder2: doFind: start
+F[202789 debug] Finder2: doFind: in original: %98.3829 (?70) 127 msec 
+-[202789 debug] Finder2: doFind: end 127 msec
+ø[202790 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png has appeared (M[444,193 551x73]@S(S(0)[0,0 1440x900]) S:0.98 C:719,229 [296 msec])
+;[202790 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+;[203886 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+ã[205005 debug] Region: waiting for /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png to vanish within 20.0 secs
+2[205137 debug] Finder2: makeMat: INT_RGB (551x73)
+=[205142 debug] Finder::possibleImageResizeOrCallback: resize
+:[205143 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (551x73)
+&[205143 debug] Finder2: doFind: start
+E[205147 debug] Finder2: doFind: in original: %-11.7946 (?97) 4 msec 
++[205147 debug] Finder2: doFind: end 4 msec
+0[205147 debug] Region: checkLastSeen: not there
+4[205147 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[205155 debug] Finder::possibleImageResizeOrCallback: resize
+:[205156 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (551x73)
+&[205156 debug] Finder2: doFind: start
+F[205269 debug] Finder2: doFind: in original: %98.3829 (?70) 113 msec 
+-[205269 debug] Finder2: doFind: end 113 msec
+4[205464 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[205475 debug] Finder2: doFind: start
+F[205579 debug] Finder2: doFind: in original: %98.3829 (?70) 104 msec 
+-[205579 debug] Finder2: doFind: end 104 msec
+4[205799 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[205810 debug] Finder2: doFind: start
+F[205912 debug] Finder2: doFind: in original: %98.3829 (?70) 102 msec 
+-[205912 debug] Finder2: doFind: end 102 msec
+4[206144 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[206155 debug] Finder2: doFind: start
+E[206253 debug] Finder2: doFind: in original: %98.3829 (?70) 98 msec 
+,[206253 debug] Finder2: doFind: end 98 msec
+4[206478 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[206490 debug] Finder2: doFind: start
+F[206626 debug] Finder2: doFind: in original: %98.3829 (?70) 136 msec 
+-[206627 debug] Finder2: doFind: end 137 msec
+4[206805 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[206814 debug] Finder2: doFind: start
+F[206920 debug] Finder2: doFind: in original: %98.3829 (?70) 106 msec 
+-[206920 debug] Finder2: doFind: end 106 msec
+4[207132 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[207141 debug] Finder2: doFind: start
+F[207242 debug] Finder2: doFind: in original: %98.3829 (?70) 101 msec 
+-[207242 debug] Finder2: doFind: end 101 msec
+4[207485 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[207496 debug] Finder2: doFind: start
+E[207591 debug] Finder2: doFind: in original: %98.3829 (?70) 95 msec 
+,[207591 debug] Finder2: doFind: end 95 msec
+4[207823 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[207834 debug] Finder2: doFind: start
+F[207939 debug] Finder2: doFind: in original: %98.3829 (?70) 105 msec 
+-[207940 debug] Finder2: doFind: end 106 msec
+4[208161 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[208172 debug] Finder2: doFind: start
+F[208283 debug] Finder2: doFind: in original: %98.3829 (?70) 111 msec 
+-[208283 debug] Finder2: doFind: end 111 msec
+4[208499 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[208510 debug] Finder2: doFind: start
+F[208613 debug] Finder2: doFind: in original: %98.3829 (?70) 103 msec 
+-[208613 debug] Finder2: doFind: end 103 msec
+4[208827 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[208838 debug] Finder2: doFind: start
+F[208942 debug] Finder2: doFind: in original: %98.3829 (?70) 104 msec 
+-[208942 debug] Finder2: doFind: end 104 msec
+4[209162 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[209175 debug] Finder2: doFind: start
+F[209312 debug] Finder2: doFind: in original: %98.3829 (?70) 137 msec 
+-[209312 debug] Finder2: doFind: end 137 msec
+4[209499 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[209508 debug] Finder2: doFind: start
+F[209609 debug] Finder2: doFind: in original: %98.3829 (?70) 100 msec 
+-[209609 debug] Finder2: doFind: end 101 msec
+4[209840 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[209849 debug] Finder2: doFind: start
+E[209944 debug] Finder2: doFind: in original: %98.3829 (?70) 95 msec 
+,[209944 debug] Finder2: doFind: end 95 msec
+4[210176 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[210185 debug] Finder2: doFind: start
+E[210281 debug] Finder2: doFind: in original: %98.3829 (?70) 96 msec 
+,[210282 debug] Finder2: doFind: end 97 msec
+4[210508 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[210521 debug] Finder2: doFind: start
+F[210634 debug] Finder2: doFind: in original: %98.3829 (?70) 113 msec 
+-[210634 debug] Finder2: doFind: end 113 msec
+4[210846 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[210857 debug] Finder2: doFind: start
+F[210960 debug] Finder2: doFind: in original: %98.3829 (?70) 103 msec 
+-[210960 debug] Finder2: doFind: end 103 msec
+4[211186 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[211198 debug] Finder2: doFind: start
+F[211298 debug] Finder2: doFind: in original: %98.3829 (?70) 100 msec 
+-[211298 debug] Finder2: doFind: end 100 msec
+4[211521 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[211533 debug] Finder2: doFind: start
+E[211632 debug] Finder2: doFind: in original: %98.3829 (?70) 98 msec 
+,[211632 debug] Finder2: doFind: end 98 msec
+4[211859 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[211868 debug] Finder2: doFind: start
+F[211993 debug] Finder2: doFind: in original: %98.3829 (?70) 125 msec 
+-[211993 debug] Finder2: doFind: end 125 msec
+4[212191 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[212200 debug] Finder2: doFind: start
+F[212301 debug] Finder2: doFind: in original: %98.3829 (?70) 101 msec 
+-[212302 debug] Finder2: doFind: end 102 msec
+4[212534 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[212546 debug] Finder2: doFind: start
+E[212639 debug] Finder2: doFind: in original: %98.3829 (?70) 93 msec 
+,[212639 debug] Finder2: doFind: end 93 msec
+4[212867 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[212876 debug] Finder2: doFind: start
+E[212971 debug] Finder2: doFind: in original: %98.3829 (?70) 95 msec 
+,[212972 debug] Finder2: doFind: end 96 msec
+4[213197 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[213208 debug] Finder2: doFind: start
+F[213315 debug] Finder2: doFind: in original: %98.3829 (?70) 107 msec 
+-[213315 debug] Finder2: doFind: end 107 msec
+4[213542 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[213554 debug] Finder2: doFind: start
+F[213656 debug] Finder2: doFind: in original: %98.3829 (?70) 102 msec 
+-[213656 debug] Finder2: doFind: end 102 msec
+4[213871 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[213882 debug] Finder2: doFind: start
+F[213983 debug] Finder2: doFind: in original: %98.3829 (?70) 101 msec 
+-[213983 debug] Finder2: doFind: end 101 msec
+4[214204 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[214219 debug] Finder2: doFind: start
+F[214372 debug] Finder2: doFind: in original: %98.3829 (?70) 153 msec 
+-[214372 debug] Finder2: doFind: end 153 msec
+4[214546 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[214557 debug] Finder2: doFind: start
+F[214667 debug] Finder2: doFind: in original: %40.3071 (?70) 109 msec 
+-[214667 debug] Finder2: doFind: end 109 msec
+m[214667 debug] Region: /Users/qa-team/Desktop/lrm-automation/build/resources/test/summaryWindow.png vanished
+;[214667 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+¶[215778 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png to appear in R[0,0 1440x900]@S(0)
+2[215915 debug] Finder2: makeMat: INT_RGB (549x62)
+=[215920 debug] Finder::possibleImageResizeOrCallback: resize
+:[215921 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (549x62)
+&[215921 debug] Finder2: doFind: start
+C[215923 debug] Finder2: doFind: in original: %1.0423 (?96) 2 msec 
++[215923 debug] Finder2: doFind: end 2 msec
+0[215923 debug] Region: checkLastSeen: not there
+4[215923 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[215934 debug] Finder::possibleImageResizeOrCallback: resize
+:[215934 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (549x62)
+&[215935 debug] Finder2: doFind: start
+F[216048 debug] Finder2: doFind: in original: %96.9487 (?70) 113 msec 
+-[216048 debug] Finder2: doFind: end 113 msec
+¬[216049 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png has appeared (M[445,360 549x62]@S(S(0)[0,0 1440x900]) S:0.97 C:719,391 [271 msec])
+;[216049 debug] highlight R[0,0 1440x900]@S(0) for 1.0 secs
+é[217209 debug] Region: waiting for /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png to vanish within 30.0 secs
+2[217367 debug] Finder2: makeMat: INT_RGB (549x62)
+=[217372 debug] Finder::possibleImageResizeOrCallback: resize
+:[217373 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (549x62)
+&[217373 debug] Finder2: doFind: start
+C[217376 debug] Finder2: doFind: in original: %1.0423 (?96) 3 msec 
++[217376 debug] Finder2: doFind: end 3 msec
+0[217376 debug] Region: checkLastSeen: not there
+4[217376 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[217391 debug] Finder::possibleImageResizeOrCallback: resize
+:[217391 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (549x62)
+&[217392 debug] Finder2: doFind: start
+F[217533 debug] Finder2: doFind: in original: %96.9487 (?70) 141 msec 
+-[217533 debug] Finder2: doFind: end 141 msec
+4[217683 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[217697 debug] Finder2: doFind: start
+F[217821 debug] Finder2: doFind: in original: %96.9491 (?70) 124 msec 
+-[217821 debug] Finder2: doFind: end 124 msec
+4[218015 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[218028 debug] Finder2: doFind: start
+F[218167 debug] Finder2: doFind: in original: %96.9487 (?70) 138 msec 
+-[218167 debug] Finder2: doFind: end 138 msec
+4[218352 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[218366 debug] Finder2: doFind: start
+F[218490 debug] Finder2: doFind: in original: %96.9487 (?70) 124 msec 
+-[218490 debug] Finder2: doFind: end 124 msec
+4[218684 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[218694 debug] Finder2: doFind: start
+F[218850 debug] Finder2: doFind: in original: %96.9487 (?70) 156 msec 
+-[218850 debug] Finder2: doFind: end 156 msec
+4[219022 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[219033 debug] Finder2: doFind: start
+F[219148 debug] Finder2: doFind: in original: %96.9487 (?70) 115 msec 
+-[219148 debug] Finder2: doFind: end 115 msec
+4[219357 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[219370 debug] Finder2: doFind: start
+F[219484 debug] Finder2: doFind: in original: %96.9489 (?70) 114 msec 
+-[219484 debug] Finder2: doFind: end 114 msec
+4[219665 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[219678 debug] Finder2: doFind: start
+F[219786 debug] Finder2: doFind: in original: %96.9487 (?70) 108 msec 
+-[219786 debug] Finder2: doFind: end 108 msec
+4[220009 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[220025 debug] Finder2: doFind: start
+E[220121 debug] Finder2: doFind: in original: %96.9487 (?70) 96 msec 
+,[220121 debug] Finder2: doFind: end 96 msec
+4[220350 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[220361 debug] Finder2: doFind: start
+E[220456 debug] Finder2: doFind: in original: %96.9487 (?70) 95 msec 
+,[220456 debug] Finder2: doFind: end 95 msec
+4[220689 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[220701 debug] Finder2: doFind: start
+E[220799 debug] Finder2: doFind: in original: %96.9487 (?70) 98 msec 
+,[220799 debug] Finder2: doFind: end 98 msec
+4[221027 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[221037 debug] Finder2: doFind: start
+F[221160 debug] Finder2: doFind: in original: %96.9487 (?70) 123 msec 
+-[221160 debug] Finder2: doFind: end 123 msec
+4[221355 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[221362 debug] Finder2: doFind: start
+E[221455 debug] Finder2: doFind: in original: %96.9487 (?70) 93 msec 
+,[221455 debug] Finder2: doFind: end 93 msec
+4[221685 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[221693 debug] Finder2: doFind: start
+E[221788 debug] Finder2: doFind: in original: %96.9487 (?70) 95 msec 
+,[221788 debug] Finder2: doFind: end 95 msec
+4[222023 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[222032 debug] Finder2: doFind: start
+E[222127 debug] Finder2: doFind: in original: %96.9487 (?70) 94 msec 
+,[222127 debug] Finder2: doFind: end 94 msec
+4[222357 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[222367 debug] Finder2: doFind: start
+E[222462 debug] Finder2: doFind: in original: %96.9489 (?70) 95 msec 
+,[222462 debug] Finder2: doFind: end 95 msec
+4[222685 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[222694 debug] Finder2: doFind: start
+F[222795 debug] Finder2: doFind: in original: %96.9487 (?70) 101 msec 
+-[222795 debug] Finder2: doFind: end 101 msec
+4[223024 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[223035 debug] Finder2: doFind: start
+E[223129 debug] Finder2: doFind: in original: %96.9487 (?70) 94 msec 
+,[223129 debug] Finder2: doFind: end 94 msec
+4[223368 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[223376 debug] Finder2: doFind: start
+F[223495 debug] Finder2: doFind: in original: %96.9487 (?70) 119 msec 
+-[223495 debug] Finder2: doFind: end 119 msec
+4[223688 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[223695 debug] Finder2: doFind: start
+E[223788 debug] Finder2: doFind: in original: %96.9487 (?70) 93 msec 
+,[223788 debug] Finder2: doFind: end 93 msec
+4[224033 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[224041 debug] Finder2: doFind: start
+E[224134 debug] Finder2: doFind: in original: %96.9487 (?70) 93 msec 
+,[224134 debug] Finder2: doFind: end 93 msec
+4[224367 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[224376 debug] Finder2: doFind: start
+E[224470 debug] Finder2: doFind: in original: %96.9489 (?70) 94 msec 
+,[224470 debug] Finder2: doFind: end 94 msec
+4[224702 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[224711 debug] Finder2: doFind: start
+E[224810 debug] Finder2: doFind: in original: %96.9487 (?70) 98 msec 
+,[224810 debug] Finder2: doFind: end 98 msec
+4[225036 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[225045 debug] Finder2: doFind: start
+E[225144 debug] Finder2: doFind: in original: %96.9487 (?70) 99 msec 
+,[225144 debug] Finder2: doFind: end 99 msec
+4[225370 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[225383 debug] Finder2: doFind: start
+F[225509 debug] Finder2: doFind: in original: %96.9487 (?70) 126 msec 
+-[225509 debug] Finder2: doFind: end 126 msec
+4[225703 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[225711 debug] Finder2: doFind: start
+E[225805 debug] Finder2: doFind: in original: %96.9487 (?70) 94 msec 
+,[225805 debug] Finder2: doFind: end 94 msec
+4[226035 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[226043 debug] Finder2: doFind: start
+E[226136 debug] Finder2: doFind: in original: %96.9487 (?70) 93 msec 
+,[226136 debug] Finder2: doFind: end 93 msec
+4[226367 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[226375 debug] Finder2: doFind: start
+E[226470 debug] Finder2: doFind: in original: %96.9489 (?70) 95 msec 
+,[226470 debug] Finder2: doFind: end 95 msec
+4[226708 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[226718 debug] Finder2: doFind: start
+F[226834 debug] Finder2: doFind: in original: %96.9487 (?70) 116 msec 
+-[226834 debug] Finder2: doFind: end 116 msec
+4[227058 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[227070 debug] Finder2: doFind: start
+F[227178 debug] Finder2: doFind: in original: %96.9487 (?70) 108 msec 
+-[227178 debug] Finder2: doFind: end 108 msec
+4[227381 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[227393 debug] Finder2: doFind: start
+F[227508 debug] Finder2: doFind: in original: %96.9487 (?70) 115 msec 
+-[227508 debug] Finder2: doFind: end 115 msec
+4[227732 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[227743 debug] Finder2: doFind: start
+F[227875 debug] Finder2: doFind: in original: %96.9487 (?70) 132 msec 
+-[227875 debug] Finder2: doFind: end 132 msec
+4[228088 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[228096 debug] Finder2: doFind: start
+F[228227 debug] Finder2: doFind: in original: %96.9487 (?70) 131 msec 
+-[228227 debug] Finder2: doFind: end 131 msec
+4[228393 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[228403 debug] Finder2: doFind: start
+F[228504 debug] Finder2: doFind: in original: %96.9487 (?70) 101 msec 
+-[228504 debug] Finder2: doFind: end 101 msec
+4[228719 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[228728 debug] Finder2: doFind: start
+F[228833 debug] Finder2: doFind: in original: %96.9487 (?70) 105 msec 
+-[228833 debug] Finder2: doFind: end 105 msec
+4[229069 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[229079 debug] Finder2: doFind: start
+F[229191 debug] Finder2: doFind: in original: %96.9487 (?70) 112 msec 
+-[229191 debug] Finder2: doFind: end 112 msec
+4[229393 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[229405 debug] Finder2: doFind: start
+F[229516 debug] Finder2: doFind: in original: %96.9487 (?70) 111 msec 
+-[229516 debug] Finder2: doFind: end 111 msec
+4[229729 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[229753 debug] Finder2: doFind: start
+F[229890 debug] Finder2: doFind: in original: %96.9487 (?70) 137 msec 
+-[229890 debug] Finder2: doFind: end 137 msec
+4[230069 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[230077 debug] Finder2: doFind: start
+E[230175 debug] Finder2: doFind: in original: %96.9487 (?70) 98 msec 
+,[230175 debug] Finder2: doFind: end 98 msec
+4[230413 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[230429 debug] Finder2: doFind: start
+F[230607 debug] Finder2: doFind: in original: %96.9487 (?70) 176 msec 
+-[230607 debug] Finder2: doFind: end 176 msec
+4[230778 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[230789 debug] Finder2: doFind: start
+F[230912 debug] Finder2: doFind: in original: %96.9487 (?70) 123 msec 
+-[230912 debug] Finder2: doFind: end 123 msec
+4[231092 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[231107 debug] Finder2: doFind: start
+F[231228 debug] Finder2: doFind: in original: %96.9489 (?70) 121 msec 
+-[231228 debug] Finder2: doFind: end 121 msec
+4[231430 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[231447 debug] Finder2: doFind: start
+F[231568 debug] Finder2: doFind: in original: %37.6476 (?70) 121 msec 
+-[231568 debug] Finder2: doFind: end 121 msec
+p[231568 debug] Region: /Users/qa-team/Desktop/lrm-automation/build/resources/test/formattingWindow.png vanished
+Ω[231570 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+Ω[231571 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+ª[231572 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+=[232573 debug] highlight R[210,280 100x50]@S(0) for 1.0 secs
+<[234840 debug] highlight R[555,280 80x50]@S(0) for 1.0 secs
+<[237060 debug] highlight R[400,280 80x50]@S(0) for 1.0 secs
+=[239282 debug] highlight R[700,280 204x50]@S(0) for 1.0 secs
+=[241540 debug] highlight R[904,280 150x50]@S(0) for 1.0 secs
+>[243787 debug] highlight R[1070,280 250x50]@S(0) for 1.0 secs
+4[245347 debug] App.close: [4627:LaCie RAID Manager]
+3[250683 debug] App.create: [-1:LaCie RAID Manager]
+2[252666 debug] App.open [4693:LaCie RAID Manager]
+Ω[252667 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png)
+Ω[252668 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonCancel.png)
+ª[252669 debug] Image: reused: /Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png (file:/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png)
+¢[252669 debug] Region: exists: waiting 5.0 secs for /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png to appear in R[0,0 1440x900]@S(0)
+4[252792 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[252801 debug] Finder::possibleImageResizeOrCallback: resize
+:[252801 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (109x37)
+&[252801 debug] Finder2: doFind: start
+F[252932 debug] Finder2: doFind: in original: %20.1984 (?70) 131 msec 
+-[252932 debug] Finder2: doFind: end 131 msec
+4[253126 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[253139 debug] Finder2: doFind: start
+F[253244 debug] Finder2: doFind: in original: %20.1984 (?70) 105 msec 
+-[253244 debug] Finder2: doFind: end 105 msec
+4[253476 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[253487 debug] Finder2: doFind: start
+F[253588 debug] Finder2: doFind: in original: %20.1984 (?70) 101 msec 
+-[253588 debug] Finder2: doFind: end 101 msec
+4[253803 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[253823 debug] Finder2: doFind: start
+F[253935 debug] Finder2: doFind: in original: %20.1858 (?70) 112 msec 
+-[253935 debug] Finder2: doFind: end 112 msec
+4[254139 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[254155 debug] Finder2: doFind: start
+F[254255 debug] Finder2: doFind: in original: %20.1858 (?70) 100 msec 
+-[254255 debug] Finder2: doFind: end 100 msec
+4[254474 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[254487 debug] Finder2: doFind: start
+F[254622 debug] Finder2: doFind: in original: %20.1858 (?70) 135 msec 
+-[254622 debug] Finder2: doFind: end 135 msec
+4[254827 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[254842 debug] Finder2: doFind: start
+F[254988 debug] Finder2: doFind: in original: %20.1858 (?70) 146 msec 
+-[254988 debug] Finder2: doFind: end 146 msec
+4[255147 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[255156 debug] Finder2: doFind: start
+F[255258 debug] Finder2: doFind: in original: %32.7912 (?70) 102 msec 
+-[255258 debug] Finder2: doFind: end 102 msec
+4[255472 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[255482 debug] Finder2: doFind: start
+F[255590 debug] Finder2: doFind: in original: %32.7912 (?70) 108 msec 
+-[255590 debug] Finder2: doFind: end 108 msec
+4[255807 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[255821 debug] Finder2: doFind: start
+F[255938 debug] Finder2: doFind: in original: %32.7913 (?70) 117 msec 
+-[255938 debug] Finder2: doFind: end 117 msec
+4[256139 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[256153 debug] Finder2: doFind: start
+F[256270 debug] Finder2: doFind: in original: %32.7912 (?70) 117 msec 
+-[256270 debug] Finder2: doFind: end 117 msec
+4[256493 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[256513 debug] Finder2: doFind: start
+F[256662 debug] Finder2: doFind: in original: %32.7911 (?70) 149 msec 
+-[256662 debug] Finder2: doFind: end 149 msec
+4[256851 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[256863 debug] Finder2: doFind: start
+F[256974 debug] Finder2: doFind: in original: %32.7911 (?70) 111 msec 
+-[256974 debug] Finder2: doFind: end 111 msec
+4[257160 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[257168 debug] Finder2: doFind: start
+E[257261 debug] Finder2: doFind: in original: %32.7912 (?70) 93 msec 
+,[257261 debug] Finder2: doFind: end 93 msec
+4[257484 debug] Finder2: makeMat: INT_RGB (1440x900)
+&[257495 debug] Finder2: doFind: start
+F[257603 debug] Finder2: doFind: in original: %32.7913 (?70) 108 msec 
+-[257603 debug] Finder2: doFind: end 108 msec
+Ü[257700 debug] Region: exists: /Users/qa-team/Desktop/lrm-automation/build/resources/test/buttonUpdate.png did not appear [5031 msec]
+ƒ[257700 debug] Region: R[0,0 1440x900]@S(0): observer APPEAR  with callback: 1549893102036 with: P(/Users/qa-team/Desktop/lrm-automation/build/resources/test/screenTitle.png) S: 0.699999988079071
+R[257701 debug] Region: observe: starting in R[0,0 1440x900]@S(0) for 20.0 seconds
+K[257701 debug] Observer: resetting observe states for R[0,0 1440x900]@S(0)
+C[257701 debug] Observing: add observer: now running 35 observer(s)
+2[257837 debug] Finder2: makeMat: INT_RGB (135x19)
+=[257837 debug] Finder::possibleImageResizeOrCallback: resize
+:[257837 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[257837 debug] Finder2: doFind: start
+D[257838 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[257838 debug] Finder2: doFind: end 1 msec
+4[257838 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[257850 debug] Finder::possibleImageResizeOrCallback: resize
+:[257850 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[257850 debug] Finder2: doFind: start
+F[257957 debug] Finder2: doFind: in original: %44.2368 (?70) 107 msec 
+-[257957 debug] Finder2: doFind: end 107 msec
+7[257957 debug] Observer: update result: Patterns: true
+7[257957 debug] Observer: update result: Changes: false
+2[258203 debug] Finder2: makeMat: INT_RGB (135x19)
+=[258203 debug] Finder::possibleImageResizeOrCallback: resize
+:[258203 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[258203 debug] Finder2: doFind: start
+D[258204 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[258204 debug] Finder2: doFind: end 1 msec
+4[258204 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[258219 debug] Finder::possibleImageResizeOrCallback: resize
+:[258220 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[258220 debug] Finder2: doFind: start
+F[258357 debug] Finder2: doFind: in original: %44.2368 (?70) 137 msec 
+-[258357 debug] Finder2: doFind: end 137 msec
+7[258357 debug] Observer: update result: Patterns: true
+7[258357 debug] Observer: update result: Changes: false
+2[258506 debug] Finder2: makeMat: INT_RGB (135x19)
+=[258506 debug] Finder::possibleImageResizeOrCallback: resize
+:[258507 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[258507 debug] Finder2: doFind: start
+D[258508 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[258508 debug] Finder2: doFind: end 1 msec
+4[258508 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[258526 debug] Finder::possibleImageResizeOrCallback: resize
+:[258527 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[258527 debug] Finder2: doFind: start
+F[258709 debug] Finder2: doFind: in original: %44.2368 (?70) 182 msec 
+-[258709 debug] Finder2: doFind: end 182 msec
+7[258709 debug] Observer: update result: Patterns: true
+7[258709 debug] Observer: update result: Changes: false
+2[258852 debug] Finder2: makeMat: INT_RGB (135x19)
+=[258852 debug] Finder::possibleImageResizeOrCallback: resize
+:[258852 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[258852 debug] Finder2: doFind: start
+D[258853 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[258853 debug] Finder2: doFind: end 1 msec
+4[258853 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[258862 debug] Finder::possibleImageResizeOrCallback: resize
+:[258863 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[258863 debug] Finder2: doFind: start
+F[258975 debug] Finder2: doFind: in original: %44.2368 (?70) 112 msec 
+-[258975 debug] Finder2: doFind: end 112 msec
+7[258975 debug] Observer: update result: Patterns: true
+7[258975 debug] Observer: update result: Changes: false
+2[259173 debug] Finder2: makeMat: INT_RGB (135x19)
+=[259173 debug] Finder::possibleImageResizeOrCallback: resize
+:[259174 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[259174 debug] Finder2: doFind: start
+D[259174 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[259174 debug] Finder2: doFind: end 0 msec
+4[259174 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[259187 debug] Finder::possibleImageResizeOrCallback: resize
+:[259187 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[259187 debug] Finder2: doFind: start
+F[259319 debug] Finder2: doFind: in original: %44.2368 (?70) 132 msec 
+-[259319 debug] Finder2: doFind: end 132 msec
+7[259319 debug] Observer: update result: Patterns: true
+7[259319 debug] Observer: update result: Changes: false
+2[259511 debug] Finder2: makeMat: INT_RGB (135x19)
+=[259511 debug] Finder::possibleImageResizeOrCallback: resize
+:[259511 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[259511 debug] Finder2: doFind: start
+D[259512 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[259512 debug] Finder2: doFind: end 1 msec
+4[259512 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[259521 debug] Finder::possibleImageResizeOrCallback: resize
+:[259522 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[259522 debug] Finder2: doFind: start
+F[259646 debug] Finder2: doFind: in original: %44.2368 (?70) 124 msec 
+-[259646 debug] Finder2: doFind: end 124 msec
+7[259646 debug] Observer: update result: Patterns: true
+7[259646 debug] Observer: update result: Changes: false
+2[259862 debug] Finder2: makeMat: INT_RGB (135x19)
+=[259862 debug] Finder::possibleImageResizeOrCallback: resize
+:[259862 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[259862 debug] Finder2: doFind: start
+D[259863 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[259863 debug] Finder2: doFind: end 1 msec
+4[259863 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[259878 debug] Finder::possibleImageResizeOrCallback: resize
+:[259878 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[259878 debug] Finder2: doFind: start
+F[259995 debug] Finder2: doFind: in original: %44.2368 (?70) 117 msec 
+-[259995 debug] Finder2: doFind: end 117 msec
+7[259995 debug] Observer: update result: Patterns: true
+7[259995 debug] Observer: update result: Changes: false
+2[260184 debug] Finder2: makeMat: INT_RGB (135x19)
+=[260184 debug] Finder::possibleImageResizeOrCallback: resize
+:[260184 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[260185 debug] Finder2: doFind: start
+D[260185 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[260185 debug] Finder2: doFind: end 0 msec
+4[260185 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[260206 debug] Finder::possibleImageResizeOrCallback: resize
+:[260206 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[260206 debug] Finder2: doFind: start
+F[260332 debug] Finder2: doFind: in original: %44.2368 (?70) 126 msec 
+-[260332 debug] Finder2: doFind: end 126 msec
+7[260332 debug] Observer: update result: Patterns: true
+7[260332 debug] Observer: update result: Changes: false
+2[260525 debug] Finder2: makeMat: INT_RGB (135x19)
+=[260526 debug] Finder::possibleImageResizeOrCallback: resize
+:[260526 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[260526 debug] Finder2: doFind: start
+D[260527 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[260527 debug] Finder2: doFind: end 1 msec
+4[260527 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[260536 debug] Finder::possibleImageResizeOrCallback: resize
+:[260537 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[260537 debug] Finder2: doFind: start
+F[260684 debug] Finder2: doFind: in original: %44.2368 (?70) 147 msec 
+-[260684 debug] Finder2: doFind: end 147 msec
+7[260684 debug] Observer: update result: Patterns: true
+7[260684 debug] Observer: update result: Changes: false
+2[260863 debug] Finder2: makeMat: INT_RGB (135x19)
+=[260864 debug] Finder::possibleImageResizeOrCallback: resize
+:[260864 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[260865 debug] Finder2: doFind: start
+D[260866 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[260866 debug] Finder2: doFind: end 1 msec
+4[260866 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[260875 debug] Finder::possibleImageResizeOrCallback: resize
+:[260876 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[260876 debug] Finder2: doFind: start
+F[260983 debug] Finder2: doFind: in original: %44.2368 (?70) 107 msec 
+-[260983 debug] Finder2: doFind: end 107 msec
+7[260983 debug] Observer: update result: Patterns: true
+7[260983 debug] Observer: update result: Changes: false
+2[261184 debug] Finder2: makeMat: INT_RGB (135x19)
+=[261184 debug] Finder::possibleImageResizeOrCallback: resize
+:[261184 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[261184 debug] Finder2: doFind: start
+D[261185 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[261185 debug] Finder2: doFind: end 1 msec
+4[261185 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[261194 debug] Finder::possibleImageResizeOrCallback: resize
+:[261194 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[261194 debug] Finder2: doFind: start
+F[261305 debug] Finder2: doFind: in original: %44.2368 (?70) 111 msec 
+-[261305 debug] Finder2: doFind: end 111 msec
+7[261305 debug] Observer: update result: Patterns: true
+7[261305 debug] Observer: update result: Changes: false
+2[261539 debug] Finder2: makeMat: INT_RGB (135x19)
+=[261539 debug] Finder::possibleImageResizeOrCallback: resize
+:[261540 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[261540 debug] Finder2: doFind: start
+D[261540 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[261540 debug] Finder2: doFind: end 0 msec
+4[261540 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[261549 debug] Finder::possibleImageResizeOrCallback: resize
+:[261550 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[261550 debug] Finder2: doFind: start
+F[261667 debug] Finder2: doFind: in original: %44.2368 (?70) 117 msec 
+-[261667 debug] Finder2: doFind: end 117 msec
+7[261667 debug] Observer: update result: Patterns: true
+7[261667 debug] Observer: update result: Changes: false
+2[261879 debug] Finder2: makeMat: INT_RGB (135x19)
+=[261879 debug] Finder::possibleImageResizeOrCallback: resize
+:[261879 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[261889 debug] Finder2: doFind: start
+D[261890 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[261890 debug] Finder2: doFind: end 1 msec
+4[261890 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[261909 debug] Finder::possibleImageResizeOrCallback: resize
+:[261909 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[261909 debug] Finder2: doFind: start
+F[262046 debug] Finder2: doFind: in original: %44.2368 (?70) 137 msec 
+-[262046 debug] Finder2: doFind: end 137 msec
+7[262046 debug] Observer: update result: Patterns: true
+7[262046 debug] Observer: update result: Changes: false
+2[262197 debug] Finder2: makeMat: INT_RGB (135x19)
+=[262197 debug] Finder::possibleImageResizeOrCallback: resize
+:[262197 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[262197 debug] Finder2: doFind: start
+D[262198 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[262198 debug] Finder2: doFind: end 0 msec
+4[262198 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[262211 debug] Finder::possibleImageResizeOrCallback: resize
+:[262211 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[262211 debug] Finder2: doFind: start
+F[262356 debug] Finder2: doFind: in original: %44.2368 (?70) 145 msec 
+-[262356 debug] Finder2: doFind: end 145 msec
+7[262356 debug] Observer: update result: Patterns: true
+7[262356 debug] Observer: update result: Changes: false
+2[262538 debug] Finder2: makeMat: INT_RGB (135x19)
+=[262538 debug] Finder::possibleImageResizeOrCallback: resize
+:[262538 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[262539 debug] Finder2: doFind: start
+D[262539 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[262539 debug] Finder2: doFind: end 0 msec
+4[262539 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[262547 debug] Finder::possibleImageResizeOrCallback: resize
+:[262548 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[262548 debug] Finder2: doFind: start
+F[262650 debug] Finder2: doFind: in original: %44.2368 (?70) 102 msec 
+-[262650 debug] Finder2: doFind: end 102 msec
+7[262650 debug] Observer: update result: Patterns: true
+7[262650 debug] Observer: update result: Changes: false
+2[262876 debug] Finder2: makeMat: INT_RGB (135x19)
+=[262877 debug] Finder::possibleImageResizeOrCallback: resize
+:[262877 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[262878 debug] Finder2: doFind: start
+D[262878 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[262878 debug] Finder2: doFind: end 0 msec
+4[262878 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[262887 debug] Finder::possibleImageResizeOrCallback: resize
+:[262888 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[262888 debug] Finder2: doFind: start
+F[263011 debug] Finder2: doFind: in original: %44.2368 (?70) 123 msec 
+-[263011 debug] Finder2: doFind: end 123 msec
+7[263011 debug] Observer: update result: Patterns: true
+7[263011 debug] Observer: update result: Changes: false
+2[263207 debug] Finder2: makeMat: INT_RGB (135x19)
+=[263208 debug] Finder::possibleImageResizeOrCallback: resize
+:[263209 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[263209 debug] Finder2: doFind: start
+D[263209 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[263209 debug] Finder2: doFind: end 0 msec
+4[263209 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[263221 debug] Finder::possibleImageResizeOrCallback: resize
+:[263222 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[263222 debug] Finder2: doFind: start
+F[263359 debug] Finder2: doFind: in original: %44.2368 (?70) 137 msec 
+-[263359 debug] Finder2: doFind: end 137 msec
+7[263359 debug] Observer: update result: Patterns: true
+7[263359 debug] Observer: update result: Changes: false
+2[263551 debug] Finder2: makeMat: INT_RGB (135x19)
+=[263554 debug] Finder::possibleImageResizeOrCallback: resize
+:[263554 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[263555 debug] Finder2: doFind: start
+D[263555 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[263555 debug] Finder2: doFind: end 0 msec
+4[263556 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[263573 debug] Finder::possibleImageResizeOrCallback: resize
+:[263573 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[263574 debug] Finder2: doFind: start
+F[263684 debug] Finder2: doFind: in original: %44.2368 (?70) 110 msec 
+-[263684 debug] Finder2: doFind: end 110 msec
+7[263685 debug] Observer: update result: Patterns: true
+7[263685 debug] Observer: update result: Changes: false
+2[263895 debug] Finder2: makeMat: INT_RGB (135x19)
+=[263896 debug] Finder::possibleImageResizeOrCallback: resize
+:[263896 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[263896 debug] Finder2: doFind: start
+D[263896 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[263896 debug] Finder2: doFind: end 0 msec
+4[263896 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[263910 debug] Finder::possibleImageResizeOrCallback: resize
+:[263910 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[263910 debug] Finder2: doFind: start
+F[264029 debug] Finder2: doFind: in original: %44.2368 (?70) 119 msec 
+-[264029 debug] Finder2: doFind: end 119 msec
+7[264029 debug] Observer: update result: Patterns: true
+7[264029 debug] Observer: update result: Changes: false
+2[264214 debug] Finder2: makeMat: INT_RGB (135x19)
+=[264214 debug] Finder::possibleImageResizeOrCallback: resize
+:[264214 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[264214 debug] Finder2: doFind: start
+D[264215 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[264215 debug] Finder2: doFind: end 1 msec
+4[264215 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[264227 debug] Finder::possibleImageResizeOrCallback: resize
+:[264228 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[264228 debug] Finder2: doFind: start
+F[264395 debug] Finder2: doFind: in original: %44.2368 (?70) 167 msec 
+-[264395 debug] Finder2: doFind: end 167 msec
+7[264395 debug] Observer: update result: Patterns: true
+7[264395 debug] Observer: update result: Changes: false
+2[264541 debug] Finder2: makeMat: INT_RGB (135x19)
+=[264542 debug] Finder::possibleImageResizeOrCallback: resize
+:[264542 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[264542 debug] Finder2: doFind: start
+D[264542 debug] Finder2: doFind: in original: %33.6217 (?95) 0 msec 
++[264543 debug] Finder2: doFind: end 1 msec
+4[264543 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[264551 debug] Finder::possibleImageResizeOrCallback: resize
+:[264551 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[264552 debug] Finder2: doFind: start
+F[264654 debug] Finder2: doFind: in original: %44.2368 (?70) 102 msec 
+-[264654 debug] Finder2: doFind: end 102 msec
+7[264654 debug] Observer: update result: Patterns: true
+7[264654 debug] Observer: update result: Changes: false
+2[264888 debug] Finder2: makeMat: INT_RGB (135x19)
+=[264888 debug] Finder::possibleImageResizeOrCallback: resize
+:[264888 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[264888 debug] Finder2: doFind: start
+D[264889 debug] Finder2: doFind: in original: %33.6217 (?95) 1 msec 
++[264889 debug] Finder2: doFind: end 1 msec
+4[264891 debug] Finder2: makeMat: INT_RGB (1440x900)
+=[264903 debug] Finder::possibleImageResizeOrCallback: resize
+:[264903 debug] Finder2: makeMat: TYPE_4BYTE_ABGR (135x19)
+&[264903 debug] Finder2: doFind: start
+F[265023 debug] Finder2: doFind: in original: %44.2368 (?70) 120 msec 
+-[265023 debug] Finder2: doFind: end 120 msec
+7[265023 debug] Observer: update result: Patterns: true
+7[265023 debug] Observer: update result: Changes: false
+2[265228 debug] Finder2: makeMat: INT_RGB (135x19)
+=[265229 debug] Finder::possibleImageResizeOrCallback: resize
+:[26522
